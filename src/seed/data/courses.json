@@ -1,0 +1,3803 @@
+[
+ {
+  "id": "crs_fullstack",
+  "slug": "full-stack-web-development",
+  "title": "Full Stack Web Development",
+  "subtitle": "HTML, CSS, JavaScript and React — from first tag to deployed app.",
+  "description": "A complete, project-driven path into modern web development. You will start with semantic HTML and responsive CSS, build real interactivity with JavaScript, and finish by shipping a React application with routing, state and API integration. Every module ends with a graded quiz, and the course closes with a portfolio project and a proctored-style final assessment.",
+  "categoryId": "cat_web",
+  "instructorId": "ins_arjun",
+  "thumbnail": "/thumbnails/full-stack-web-development.svg",
+  "level": "Beginner",
+  "language": "English",
+  "price": 4999,
+  "originalPrice": 12999,
+  "rating": 4.8,
+  "ratingCount": 2314,
+  "enrolledCount": 11820,
+  "modules": [
+   {
+    "id": "crs_fullstack_m1",
+    "courseId": "crs_fullstack",
+    "title": "HTML Fundamentals",
+    "description": "The structure of every web page, from document outline to forms.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_fullstack_m1_l1",
+      "moduleId": "crs_fullstack_m1",
+      "title": "Introduction to HTML",
+      "description": "In this lesson you will work through introduction to html with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 720,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_fullstack_m1_l1_r1",
+        "title": "Introduction to HTML — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_fullstack_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m1_l2",
+      "moduleId": "crs_fullstack_m1",
+      "title": "HTML Structure",
+      "description": "In this lesson you will work through html structure with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 900,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m1_l2_r1",
+        "title": "HTML Structure — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m1_l3",
+      "moduleId": "crs_fullstack_m1",
+      "title": "HTML Forms",
+      "description": "In this lesson you will work through html forms with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 1080,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m1_l3_r1",
+        "title": "HTML Forms — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_fullstack_m1_quiz"
+   },
+   {
+    "id": "crs_fullstack_m2",
+    "courseId": "crs_fullstack",
+    "title": "CSS Fundamentals",
+    "description": "Styling, layout and responsive design.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_fullstack_m2_l1",
+      "moduleId": "crs_fullstack_m2",
+      "title": "Introduction to CSS",
+      "description": "In this lesson you will work through introduction to css with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 840,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m2_l1_r1",
+        "title": "Introduction to CSS — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_fullstack_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m2_l2",
+      "moduleId": "crs_fullstack_m2",
+      "title": "Flexbox",
+      "description": "In this lesson you will work through flexbox with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 1320,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m2_l2_r1",
+        "title": "Flexbox — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m2_l3",
+      "moduleId": "crs_fullstack_m2",
+      "title": "CSS Grid",
+      "description": "In this lesson you will work through css grid with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 1440,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m2_l3_r1",
+        "title": "CSS Grid — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_fullstack_m2_quiz"
+   },
+   {
+    "id": "crs_fullstack_m3",
+    "courseId": "crs_fullstack",
+    "title": "JavaScript",
+    "description": "Language fundamentals, the DOM and asynchronous code.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_fullstack_m3_l1",
+      "moduleId": "crs_fullstack_m3",
+      "title": "Variables, Types and Functions",
+      "description": "In this lesson you will work through variables, types and functions with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 1200,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m3_l1_r1",
+        "title": "Variables, Types and Functions — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_fullstack_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m3_l2",
+      "moduleId": "crs_fullstack_m3",
+      "title": "Working with the DOM",
+      "description": "In this lesson you will work through working with the dom with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 1500,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m3_l2_r1",
+        "title": "Working with the DOM — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m3_l3",
+      "moduleId": "crs_fullstack_m3",
+      "title": "Fetch, Promises and async/await",
+      "description": "In this lesson you will work through fetch, promises and async/await with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 1680,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m3_l3_r1",
+        "title": "Fetch, Promises and async/await — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_fullstack_m3_quiz"
+   },
+   {
+    "id": "crs_fullstack_m4",
+    "courseId": "crs_fullstack",
+    "title": "React",
+    "description": "Components, hooks, routing and state.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_fullstack_m4_l1",
+      "moduleId": "crs_fullstack_m4",
+      "title": "Components and JSX",
+      "description": "In this lesson you will work through components and jsx with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 1080,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m4_l1_r1",
+        "title": "Components and JSX — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_fullstack_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m4_l2",
+      "moduleId": "crs_fullstack_m4",
+      "title": "State and Effects",
+      "description": "In this lesson you will work through state and effects with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 1560,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m4_l2_r1",
+        "title": "State and Effects — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_fullstack_m4_l3",
+      "moduleId": "crs_fullstack_m4",
+      "title": "Routing and Data Fetching",
+      "description": "In this lesson you will work through routing and data fetching with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 1800,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m4_l3_r1",
+        "title": "Routing and Data Fetching — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_fullstack_m4_quiz"
+   },
+   {
+    "id": "crs_fullstack_m5",
+    "courseId": "crs_fullstack",
+    "title": "Final Project",
+    "description": "Build and submit a complete portfolio application.",
+    "order": 5,
+    "lessons": [
+     {
+      "id": "crs_fullstack_m5_l1",
+      "moduleId": "crs_fullstack_m5",
+      "title": "Project Brief and Requirements",
+      "description": "In this lesson you will work through project brief and requirements with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 600,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m5_l1_r1",
+        "title": "Project Brief and Requirements — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_fullstack_m5_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "assignmentId": "crs_fullstack_m5_assignment"
+   },
+   {
+    "id": "crs_fullstack_m6",
+    "courseId": "crs_fullstack",
+    "title": "Final Assessment",
+    "description": "A timed assessment covering the entire course.",
+    "order": 6,
+    "lessons": [
+     {
+      "id": "crs_fullstack_m6_l1",
+      "moduleId": "crs_fullstack_m6",
+      "title": "How the Final Assessment Works",
+      "description": "In this lesson you will work through how the final assessment works with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 300,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_fullstack_m6_l1_r1",
+        "title": "How the Final Assessment Works — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_fullstack_m6_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_fullstack_m6_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Build responsive, accessible layouts with semantic HTML and modern CSS",
+   "Write clean JavaScript with ES2023 syntax, async/await and the fetch API",
+   "Create component-based interfaces in React with hooks and routing",
+   "Deploy a production build and set up a basic CI workflow",
+   "Present a portfolio project to hiring managers"
+  ],
+  "skills": [
+   "HTML5",
+   "CSS3",
+   "Flexbox & Grid",
+   "JavaScript",
+   "React",
+   "Git",
+   "REST APIs",
+   "Deployment"
+  ],
+  "prerequisites": [
+   "Basic computer literacy",
+   "No prior coding experience required"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "FSWD",
+  "status": "published",
+  "isFeatured": true,
+  "createdAt": "2026-01-12T00:00:00.000Z",
+  "updatedAt": "2026-01-12T00:00:00.000Z"
+ },
+ {
+  "id": "crs_dm",
+  "slug": "digital-marketing-mastery",
+  "title": "Digital Marketing Mastery",
+  "subtitle": "Run paid, social, email and content campaigns that convert.",
+  "description": "Learn how modern marketing teams plan, launch and measure campaigns. You will set up Meta and Google Ads accounts, build landing pages, design email automations and read analytics dashboards the way a growth lead does. Assignments use real campaign briefs.",
+  "categoryId": "cat_dm",
+  "instructorId": "ins_priya",
+  "thumbnail": "/thumbnails/digital-marketing-mastery.svg",
+  "level": "Beginner",
+  "language": "English",
+  "price": 3499,
+  "originalPrice": 8999,
+  "rating": 4.7,
+  "ratingCount": 1486,
+  "enrolledCount": 8420,
+  "modules": [
+   {
+    "id": "crs_dm_m1",
+    "courseId": "crs_dm",
+    "title": "Marketing Foundations",
+    "description": "Build a solid foundation in marketing foundations.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_dm_m1_l1",
+      "moduleId": "crs_dm_m1",
+      "title": "The Modern Marketing Funnel",
+      "description": "In this lesson you will work through the modern marketing funnel with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_dm_m1_l1_r1",
+        "title": "The Modern Marketing Funnel — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_dm_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m1_l2",
+      "moduleId": "crs_dm_m1",
+      "title": "Customer Personas",
+      "description": "In this lesson you will work through customer personas with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m1_l2_r1",
+        "title": "Customer Personas — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m1_l3",
+      "moduleId": "crs_dm_m1",
+      "title": "Positioning and Messaging",
+      "description": "In this lesson you will work through positioning and messaging with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m1_l3_r1",
+        "title": "Positioning and Messaging — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_dm_m1_quiz"
+   },
+   {
+    "id": "crs_dm_m2",
+    "courseId": "crs_dm",
+    "title": "Paid Advertising",
+    "description": "Build a solid foundation in paid advertising.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_dm_m2_l1",
+      "moduleId": "crs_dm_m2",
+      "title": "Meta Ads Manager Walkthrough",
+      "description": "In this lesson you will work through meta ads manager walkthrough with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m2_l1_r1",
+        "title": "Meta Ads Manager Walkthrough — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_dm_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m2_l2",
+      "moduleId": "crs_dm_m2",
+      "title": "Google Search Campaigns",
+      "description": "In this lesson you will work through google search campaigns with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m2_l2_r1",
+        "title": "Google Search Campaigns — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m2_l3",
+      "moduleId": "crs_dm_m2",
+      "title": "Bidding and Budgets",
+      "description": "In this lesson you will work through bidding and budgets with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m2_l3_r1",
+        "title": "Bidding and Budgets — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_dm_m2_quiz"
+   },
+   {
+    "id": "crs_dm_m3",
+    "courseId": "crs_dm",
+    "title": "Email and Automation",
+    "description": "Build a solid foundation in email and automation.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_dm_m3_l1",
+      "moduleId": "crs_dm_m3",
+      "title": "List Building",
+      "description": "In this lesson you will work through list building with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m3_l1_r1",
+        "title": "List Building — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_dm_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m3_l2",
+      "moduleId": "crs_dm_m3",
+      "title": "Welcome Sequences",
+      "description": "In this lesson you will work through welcome sequences with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 960,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m3_l2_r1",
+        "title": "Welcome Sequences — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m3_l3",
+      "moduleId": "crs_dm_m3",
+      "title": "Segmentation and A/B Tests",
+      "description": "In this lesson you will work through segmentation and a/b tests with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 600,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m3_l3_r1",
+        "title": "Segmentation and A/B Tests — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_dm_m3_quiz"
+   },
+   {
+    "id": "crs_dm_m4",
+    "courseId": "crs_dm",
+    "title": "Analytics and Reporting",
+    "description": "Build a solid foundation in analytics and reporting.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_dm_m4_l1",
+      "moduleId": "crs_dm_m4",
+      "title": "GA4 Essentials",
+      "description": "In this lesson you will work through ga4 essentials with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 660,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m4_l1_r1",
+        "title": "GA4 Essentials — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_dm_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m4_l2",
+      "moduleId": "crs_dm_m4",
+      "title": "Attribution Models",
+      "description": "In this lesson you will work through attribution models with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 840,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m4_l2_r1",
+        "title": "Attribution Models — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_dm_m4_l3",
+      "moduleId": "crs_dm_m4",
+      "title": "Building a Campaign Dashboard",
+      "description": "In this lesson you will work through building a campaign dashboard with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 480,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m4_l3_r1",
+        "title": "Building a Campaign Dashboard — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_dm_m4_quiz",
+    "assignmentId": "crs_dm_m4_assignment"
+   },
+   {
+    "id": "crs_dm_m5",
+    "courseId": "crs_dm",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 5,
+    "lessons": [
+     {
+      "id": "crs_dm_m5_l1",
+      "moduleId": "crs_dm_m5",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 540,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_dm_m5_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_dm_m5_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_dm_m5_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Plan a full-funnel campaign from awareness to retention",
+   "Launch and optimise Meta and Google Ads",
+   "Build landing pages that convert",
+   "Design automated email journeys",
+   "Report on campaign ROI"
+  ],
+  "skills": [
+   "Meta Ads",
+   "Google Ads",
+   "Email Marketing",
+   "Copywriting",
+   "GA4",
+   "Landing Pages"
+  ],
+  "prerequisites": [
+   "Comfortable using the web and spreadsheets"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "DM",
+  "status": "published",
+  "isFeatured": true,
+  "createdAt": "2026-02-03T00:00:00.000Z",
+  "updatedAt": "2026-02-03T00:00:00.000Z"
+ },
+ {
+  "id": "crs_python_da",
+  "slug": "python-for-data-analytics",
+  "title": "Python for Data Analytics",
+  "subtitle": "Pandas, visualisation and statistics for business decisions.",
+  "description": "Go from zero Python to confidently cleaning, analysing and presenting datasets. You will work with pandas, build charts with matplotlib and Plotly, run basic statistical tests and finish with a complete analytics case study on real sales data.",
+  "categoryId": "cat_ai",
+  "instructorId": "ins_kabir",
+  "thumbnail": "/thumbnails/python-for-data-analytics.svg",
+  "level": "Intermediate",
+  "language": "English",
+  "price": 5999,
+  "originalPrice": 14999,
+  "rating": 4.9,
+  "ratingCount": 1120,
+  "enrolledCount": 6230,
+  "modules": [
+   {
+    "id": "crs_python_da_m1",
+    "courseId": "crs_python_da",
+    "title": "Python Essentials",
+    "description": "Build a solid foundation in python essentials.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_python_da_m1_l1",
+      "moduleId": "crs_python_da_m1",
+      "title": "Setting Up Your Environment",
+      "description": "In this lesson you will work through setting up your environment with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_python_da_m1_l1_r1",
+        "title": "Setting Up Your Environment — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_python_da_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m1_l2",
+      "moduleId": "crs_python_da_m1",
+      "title": "Data Types and Control Flow",
+      "description": "In this lesson you will work through data types and control flow with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m1_l2_r1",
+        "title": "Data Types and Control Flow — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m1_l3",
+      "moduleId": "crs_python_da_m1",
+      "title": "Functions and Modules",
+      "description": "In this lesson you will work through functions and modules with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m1_l3_r1",
+        "title": "Functions and Modules — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_python_da_m1_quiz"
+   },
+   {
+    "id": "crs_python_da_m2",
+    "courseId": "crs_python_da",
+    "title": "Working with pandas",
+    "description": "Build a solid foundation in working with pandas.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_python_da_m2_l1",
+      "moduleId": "crs_python_da_m2",
+      "title": "Series and DataFrames",
+      "description": "In this lesson you will work through series and dataframes with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m2_l1_r1",
+        "title": "Series and DataFrames — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_python_da_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m2_l2",
+      "moduleId": "crs_python_da_m2",
+      "title": "Cleaning Messy Data",
+      "description": "In this lesson you will work through cleaning messy data with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m2_l2_r1",
+        "title": "Cleaning Messy Data — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m2_l3",
+      "moduleId": "crs_python_da_m2",
+      "title": "Grouping and Aggregation",
+      "description": "In this lesson you will work through grouping and aggregation with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m2_l3_r1",
+        "title": "Grouping and Aggregation — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_python_da_m2_quiz"
+   },
+   {
+    "id": "crs_python_da_m3",
+    "courseId": "crs_python_da",
+    "title": "Visualisation",
+    "description": "Build a solid foundation in visualisation.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_python_da_m3_l1",
+      "moduleId": "crs_python_da_m3",
+      "title": "Matplotlib Fundamentals",
+      "description": "In this lesson you will work through matplotlib fundamentals with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m3_l1_r1",
+        "title": "Matplotlib Fundamentals — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_python_da_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m3_l2",
+      "moduleId": "crs_python_da_m3",
+      "title": "Interactive Charts with Plotly",
+      "description": "In this lesson you will work through interactive charts with plotly with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 960,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m3_l2_r1",
+        "title": "Interactive Charts with Plotly — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m3_l3",
+      "moduleId": "crs_python_da_m3",
+      "title": "Telling a Story with Data",
+      "description": "In this lesson you will work through telling a story with data with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 600,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m3_l3_r1",
+        "title": "Telling a Story with Data — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_python_da_m3_quiz"
+   },
+   {
+    "id": "crs_python_da_m4",
+    "courseId": "crs_python_da",
+    "title": "Statistics for Analysts",
+    "description": "Build a solid foundation in statistics for analysts.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_python_da_m4_l1",
+      "moduleId": "crs_python_da_m4",
+      "title": "Descriptive Statistics",
+      "description": "In this lesson you will work through descriptive statistics with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 660,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m4_l1_r1",
+        "title": "Descriptive Statistics — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_python_da_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m4_l2",
+      "moduleId": "crs_python_da_m4",
+      "title": "Hypothesis Testing",
+      "description": "In this lesson you will work through hypothesis testing with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 840,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m4_l2_r1",
+        "title": "Hypothesis Testing — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_python_da_m4_l3",
+      "moduleId": "crs_python_da_m4",
+      "title": "Correlation and Regression",
+      "description": "In this lesson you will work through correlation and regression with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 480,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m4_l3_r1",
+        "title": "Correlation and Regression — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_python_da_m4_quiz",
+    "assignmentId": "crs_python_da_m4_assignment"
+   },
+   {
+    "id": "crs_python_da_m5",
+    "courseId": "crs_python_da",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 5,
+    "lessons": [
+     {
+      "id": "crs_python_da_m5_l1",
+      "moduleId": "crs_python_da_m5",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 540,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_python_da_m5_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_python_da_m5_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_python_da_m5_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Write Python scripts and notebooks for data work",
+   "Clean and reshape data with pandas",
+   "Visualise trends and distributions",
+   "Apply descriptive and inferential statistics",
+   "Present findings to stakeholders"
+  ],
+  "skills": [
+   "Python",
+   "pandas",
+   "NumPy",
+   "Matplotlib",
+   "Plotly",
+   "Statistics",
+   "Jupyter"
+  ],
+  "prerequisites": [
+   "Basic spreadsheet knowledge",
+   "High-school mathematics"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "PDA",
+  "status": "published",
+  "isFeatured": true,
+  "createdAt": "2026-01-28T00:00:00.000Z",
+  "updatedAt": "2026-01-28T00:00:00.000Z"
+ },
+ {
+  "id": "crs_seo",
+  "slug": "seo-fundamentals-to-advanced",
+  "title": "SEO: Fundamentals to Advanced",
+  "subtitle": "Technical SEO, content strategy and link building that ranks.",
+  "description": "Learn how search engines crawl, index and rank pages, and how to build a content and technical strategy that earns durable organic traffic. Includes a full site audit project.",
+  "categoryId": "cat_seo",
+  "instructorId": "ins_priya",
+  "thumbnail": "/thumbnails/seo-fundamentals-to-advanced.svg",
+  "level": "Intermediate",
+  "language": "English",
+  "price": 2999,
+  "originalPrice": 6999,
+  "rating": 4.6,
+  "ratingCount": 842,
+  "enrolledCount": 4310,
+  "modules": [
+   {
+    "id": "crs_seo_m1",
+    "courseId": "crs_seo",
+    "title": "How Search Works",
+    "description": "Build a solid foundation in how search works.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_seo_m1_l1",
+      "moduleId": "crs_seo_m1",
+      "title": "Crawling, Indexing and Ranking",
+      "description": "In this lesson you will work through crawling, indexing and ranking with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_seo_m1_l1_r1",
+        "title": "Crawling, Indexing and Ranking — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_seo_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_seo_m1_l2",
+      "moduleId": "crs_seo_m1",
+      "title": "Search Intent",
+      "description": "In this lesson you will work through search intent with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m1_l2_r1",
+        "title": "Search Intent — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_seo_m1_l3",
+      "moduleId": "crs_seo_m1",
+      "title": "Keyword Research Workflow",
+      "description": "In this lesson you will work through keyword research workflow with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m1_l3_r1",
+        "title": "Keyword Research Workflow — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_seo_m1_quiz"
+   },
+   {
+    "id": "crs_seo_m2",
+    "courseId": "crs_seo",
+    "title": "On-Page and Technical SEO",
+    "description": "Build a solid foundation in on-page and technical seo.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_seo_m2_l1",
+      "moduleId": "crs_seo_m2",
+      "title": "Title Tags, Headings and Internal Links",
+      "description": "In this lesson you will work through title tags, headings and internal links with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m2_l1_r1",
+        "title": "Title Tags, Headings and Internal Links — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_seo_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_seo_m2_l2",
+      "moduleId": "crs_seo_m2",
+      "title": "Core Web Vitals",
+      "description": "In this lesson you will work through core web vitals with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m2_l2_r1",
+        "title": "Core Web Vitals — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_seo_m2_l3",
+      "moduleId": "crs_seo_m2",
+      "title": "Structured Data and Sitemaps",
+      "description": "In this lesson you will work through structured data and sitemaps with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m2_l3_r1",
+        "title": "Structured Data and Sitemaps — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_seo_m2_quiz"
+   },
+   {
+    "id": "crs_seo_m3",
+    "courseId": "crs_seo",
+    "title": "Off-Page SEO",
+    "description": "Build a solid foundation in off-page seo.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_seo_m3_l1",
+      "moduleId": "crs_seo_m3",
+      "title": "Link Building Strategies",
+      "description": "In this lesson you will work through link building strategies with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m3_l1_r1",
+        "title": "Link Building Strategies — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_seo_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_seo_m3_l2",
+      "moduleId": "crs_seo_m3",
+      "title": "Digital PR",
+      "description": "In this lesson you will work through digital pr with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 960,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m3_l2_r1",
+        "title": "Digital PR — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_seo_m3_l3",
+      "moduleId": "crs_seo_m3",
+      "title": "Local SEO",
+      "description": "In this lesson you will work through local seo with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 600,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m3_l3_r1",
+        "title": "Local SEO — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_seo_m3_quiz",
+    "assignmentId": "crs_seo_m3_assignment"
+   },
+   {
+    "id": "crs_seo_m4",
+    "courseId": "crs_seo",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_seo_m4_l1",
+      "moduleId": "crs_seo_m4",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 660,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_seo_m4_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_seo_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_seo_m4_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Perform keyword research and intent mapping",
+   "Fix technical SEO issues",
+   "Plan content clusters",
+   "Earn high-quality backlinks",
+   "Report with Search Console"
+  ],
+  "skills": [
+   "Keyword Research",
+   "Technical SEO",
+   "Content Strategy",
+   "Link Building",
+   "Search Console"
+  ],
+  "prerequisites": [
+   "Basic understanding of websites"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "SEO",
+  "status": "published",
+  "createdAt": "2026-03-10T00:00:00.000Z",
+  "updatedAt": "2026-03-10T00:00:00.000Z"
+ },
+ {
+  "id": "crs_uiux",
+  "slug": "graphic-design-and-brand-identity",
+  "title": "Graphic Design and Brand Identity",
+  "subtitle": "Typography, colour, layout and logo systems in Figma and Illustrator.",
+  "description": "A hands-on design course covering the principles behind professional visual work and the tools to execute it. You will design a complete brand identity for a fictional client by the end.",
+  "categoryId": "cat_design",
+  "instructorId": "ins_meera",
+  "thumbnail": "/thumbnails/graphic-design-and-brand-identity.svg",
+  "level": "Beginner",
+  "language": "English",
+  "price": 3999,
+  "originalPrice": 9999,
+  "rating": 4.8,
+  "ratingCount": 963,
+  "enrolledCount": 5120,
+  "modules": [
+   {
+    "id": "crs_uiux_m1",
+    "courseId": "crs_uiux",
+    "title": "Design Principles",
+    "description": "Build a solid foundation in design principles.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_uiux_m1_l1",
+      "moduleId": "crs_uiux_m1",
+      "title": "Visual Hierarchy",
+      "description": "In this lesson you will work through visual hierarchy with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_uiux_m1_l1_r1",
+        "title": "Visual Hierarchy — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_uiux_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_uiux_m1_l2",
+      "moduleId": "crs_uiux_m1",
+      "title": "Typography Essentials",
+      "description": "In this lesson you will work through typography essentials with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m1_l2_r1",
+        "title": "Typography Essentials — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_uiux_m1_l3",
+      "moduleId": "crs_uiux_m1",
+      "title": "Colour Theory in Practice",
+      "description": "In this lesson you will work through colour theory in practice with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m1_l3_r1",
+        "title": "Colour Theory in Practice — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_uiux_m1_quiz"
+   },
+   {
+    "id": "crs_uiux_m2",
+    "courseId": "crs_uiux",
+    "title": "Tools Mastery",
+    "description": "Build a solid foundation in tools mastery.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_uiux_m2_l1",
+      "moduleId": "crs_uiux_m2",
+      "title": "Figma Fundamentals",
+      "description": "In this lesson you will work through figma fundamentals with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m2_l1_r1",
+        "title": "Figma Fundamentals — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_uiux_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_uiux_m2_l2",
+      "moduleId": "crs_uiux_m2",
+      "title": "Illustrator Vector Workflow",
+      "description": "In this lesson you will work through illustrator vector workflow with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m2_l2_r1",
+        "title": "Illustrator Vector Workflow — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_uiux_m2_l3",
+      "moduleId": "crs_uiux_m2",
+      "title": "Exporting for Print and Web",
+      "description": "In this lesson you will work through exporting for print and web with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m2_l3_r1",
+        "title": "Exporting for Print and Web — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_uiux_m2_quiz"
+   },
+   {
+    "id": "crs_uiux_m3",
+    "courseId": "crs_uiux",
+    "title": "Brand Identity Project",
+    "description": "Build a solid foundation in brand identity project.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_uiux_m3_l1",
+      "moduleId": "crs_uiux_m3",
+      "title": "Logo Design Process",
+      "description": "In this lesson you will work through logo design process with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m3_l1_r1",
+        "title": "Logo Design Process — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_uiux_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_uiux_m3_l2",
+      "moduleId": "crs_uiux_m3",
+      "title": "Brand Guidelines",
+      "description": "In this lesson you will work through brand guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 960,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m3_l2_r1",
+        "title": "Brand Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_uiux_m3_quiz",
+    "assignmentId": "crs_uiux_m3_assignment"
+   },
+   {
+    "id": "crs_uiux_m4",
+    "courseId": "crs_uiux",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_uiux_m4_l1",
+      "moduleId": "crs_uiux_m4",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 660,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_uiux_m4_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_uiux_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_uiux_m4_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Apply typography and colour theory with intent",
+   "Design logos and brand systems",
+   "Create print and social layouts",
+   "Build a professional portfolio"
+  ],
+  "skills": [
+   "Figma",
+   "Illustrator",
+   "Typography",
+   "Colour Theory",
+   "Layout",
+   "Branding"
+  ],
+  "prerequisites": [
+   "No prior design experience required"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "GD",
+  "status": "published",
+  "isFeatured": true,
+  "createdAt": "2026-02-18T00:00:00.000Z",
+  "updatedAt": "2026-02-18T00:00:00.000Z"
+ },
+ {
+  "id": "crs_aws",
+  "slug": "aws-cloud-and-devops-essentials",
+  "title": "AWS Cloud and DevOps Essentials",
+  "subtitle": "EC2, S3, IAM, Docker and CI/CD pipelines, hands-on.",
+  "description": "Deploy and operate applications on AWS using infrastructure-as-code and containerisation. Each module includes a lab you reproduce in your own free-tier account.",
+  "categoryId": "cat_it",
+  "instructorId": "ins_rohan",
+  "thumbnail": "/thumbnails/aws-cloud-and-devops-essentials.svg",
+  "level": "Intermediate",
+  "language": "English",
+  "price": 6499,
+  "originalPrice": 15999,
+  "rating": 4.6,
+  "ratingCount": 702,
+  "enrolledCount": 3980,
+  "modules": [
+   {
+    "id": "crs_aws_m1",
+    "courseId": "crs_aws",
+    "title": "Cloud Foundations",
+    "description": "Build a solid foundation in cloud foundations.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_aws_m1_l1",
+      "moduleId": "crs_aws_m1",
+      "title": "Cloud Concepts and Regions",
+      "description": "In this lesson you will work through cloud concepts and regions with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_aws_m1_l1_r1",
+        "title": "Cloud Concepts and Regions — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_aws_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_aws_m1_l2",
+      "moduleId": "crs_aws_m1",
+      "title": "IAM Users, Roles and Policies",
+      "description": "In this lesson you will work through iam users, roles and policies with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m1_l2_r1",
+        "title": "IAM Users, Roles and Policies — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_aws_m1_l3",
+      "moduleId": "crs_aws_m1",
+      "title": "Billing and Free Tier",
+      "description": "In this lesson you will work through billing and free tier with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m1_l3_r1",
+        "title": "Billing and Free Tier — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_aws_m1_quiz"
+   },
+   {
+    "id": "crs_aws_m2",
+    "courseId": "crs_aws",
+    "title": "Compute and Storage",
+    "description": "Build a solid foundation in compute and storage.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_aws_m2_l1",
+      "moduleId": "crs_aws_m2",
+      "title": "Launching EC2 Instances",
+      "description": "In this lesson you will work through launching ec2 instances with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m2_l1_r1",
+        "title": "Launching EC2 Instances — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_aws_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_aws_m2_l2",
+      "moduleId": "crs_aws_m2",
+      "title": "S3 Buckets and Static Hosting",
+      "description": "In this lesson you will work through s3 buckets and static hosting with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m2_l2_r1",
+        "title": "S3 Buckets and Static Hosting — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_aws_m2_l3",
+      "moduleId": "crs_aws_m2",
+      "title": "Load Balancers and Auto Scaling",
+      "description": "In this lesson you will work through load balancers and auto scaling with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m2_l3_r1",
+        "title": "Load Balancers and Auto Scaling — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_aws_m2_quiz"
+   },
+   {
+    "id": "crs_aws_m3",
+    "courseId": "crs_aws",
+    "title": "Containers and CI/CD",
+    "description": "Build a solid foundation in containers and ci/cd.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_aws_m3_l1",
+      "moduleId": "crs_aws_m3",
+      "title": "Docker Fundamentals",
+      "description": "In this lesson you will work through docker fundamentals with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m3_l1_r1",
+        "title": "Docker Fundamentals — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_aws_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_aws_m3_l2",
+      "moduleId": "crs_aws_m3",
+      "title": "Pushing to ECR",
+      "description": "In this lesson you will work through pushing to ecr with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 960,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m3_l2_r1",
+        "title": "Pushing to ECR — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_aws_m3_l3",
+      "moduleId": "crs_aws_m3",
+      "title": "GitHub Actions Pipelines",
+      "description": "In this lesson you will work through github actions pipelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 600,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m3_l3_r1",
+        "title": "GitHub Actions Pipelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_aws_m3_quiz",
+    "assignmentId": "crs_aws_m3_assignment"
+   },
+   {
+    "id": "crs_aws_m4",
+    "courseId": "crs_aws",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_aws_m4_l1",
+      "moduleId": "crs_aws_m4",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 660,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_aws_m4_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_aws_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_aws_m4_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Provision compute, storage and networking on AWS",
+   "Secure accounts with IAM best practices",
+   "Containerise apps with Docker",
+   "Automate deployments with GitHub Actions"
+  ],
+  "skills": [
+   "AWS",
+   "EC2",
+   "S3",
+   "IAM",
+   "Docker",
+   "CI/CD",
+   "Terraform"
+  ],
+  "prerequisites": [
+   "Basic Linux command line",
+   "Some programming experience"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "AWS",
+  "status": "published",
+  "createdAt": "2026-03-22T00:00:00.000Z",
+  "updatedAt": "2026-03-22T00:00:00.000Z"
+ },
+ {
+  "id": "crs_java",
+  "slug": "java-programming-and-dsa",
+  "title": "Java Programming and Data Structures",
+  "subtitle": "Core Java, OOP and the data structures interviews expect.",
+  "description": "Master Java from syntax to collections and solve 80+ curated data-structure problems with video walkthroughs.",
+  "categoryId": "cat_prog",
+  "instructorId": "ins_arjun",
+  "thumbnail": "/thumbnails/java-programming-and-dsa.svg",
+  "level": "Intermediate",
+  "language": "English",
+  "price": 4499,
+  "originalPrice": 10999,
+  "rating": 4.7,
+  "ratingCount": 1210,
+  "enrolledCount": 7260,
+  "modules": [
+   {
+    "id": "crs_java_m1",
+    "courseId": "crs_java",
+    "title": "Core Java",
+    "description": "Build a solid foundation in core java.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_java_m1_l1",
+      "moduleId": "crs_java_m1",
+      "title": "Syntax and Types",
+      "description": "In this lesson you will work through syntax and types with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_java_m1_l1_r1",
+        "title": "Syntax and Types — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_java_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_java_m1_l2",
+      "moduleId": "crs_java_m1",
+      "title": "Classes and Objects",
+      "description": "In this lesson you will work through classes and objects with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m1_l2_r1",
+        "title": "Classes and Objects — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_java_m1_l3",
+      "moduleId": "crs_java_m1",
+      "title": "Inheritance and Interfaces",
+      "description": "In this lesson you will work through inheritance and interfaces with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m1_l3_r1",
+        "title": "Inheritance and Interfaces — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_java_m1_quiz"
+   },
+   {
+    "id": "crs_java_m2",
+    "courseId": "crs_java",
+    "title": "Collections and Generics",
+    "description": "Build a solid foundation in collections and generics.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_java_m2_l1",
+      "moduleId": "crs_java_m2",
+      "title": "Lists, Sets and Maps",
+      "description": "In this lesson you will work through lists, sets and maps with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m2_l1_r1",
+        "title": "Lists, Sets and Maps — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_java_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_java_m2_l2",
+      "moduleId": "crs_java_m2",
+      "title": "Generics",
+      "description": "In this lesson you will work through generics with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m2_l2_r1",
+        "title": "Generics — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_java_m2_l3",
+      "moduleId": "crs_java_m2",
+      "title": "Streams API",
+      "description": "In this lesson you will work through streams api with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m2_l3_r1",
+        "title": "Streams API — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_java_m2_quiz"
+   },
+   {
+    "id": "crs_java_m3",
+    "courseId": "crs_java",
+    "title": "Data Structures",
+    "description": "Build a solid foundation in data structures.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_java_m3_l1",
+      "moduleId": "crs_java_m3",
+      "title": "Arrays and Strings",
+      "description": "In this lesson you will work through arrays and strings with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m3_l1_r1",
+        "title": "Arrays and Strings — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_java_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_java_m3_l2",
+      "moduleId": "crs_java_m3",
+      "title": "Linked Lists and Stacks",
+      "description": "In this lesson you will work through linked lists and stacks with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 960,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m3_l2_r1",
+        "title": "Linked Lists and Stacks — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_java_m3_l3",
+      "moduleId": "crs_java_m3",
+      "title": "Trees and Graphs",
+      "description": "In this lesson you will work through trees and graphs with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 600,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m3_l3_r1",
+        "title": "Trees and Graphs — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_java_m3_quiz"
+   },
+   {
+    "id": "crs_java_m4",
+    "courseId": "crs_java",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_java_m4_l1",
+      "moduleId": "crs_java_m4",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 660,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_java_m4_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_java_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_java_m4_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Write idiomatic object-oriented Java",
+   "Use collections and generics effectively",
+   "Implement arrays, linked lists, stacks, queues, trees and graphs",
+   "Analyse time and space complexity"
+  ],
+  "skills": [
+   "Java",
+   "OOP",
+   "Collections",
+   "Algorithms",
+   "Data Structures",
+   "Problem Solving"
+  ],
+  "prerequisites": [
+   "Basic programming logic in any language"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "JAVA",
+  "status": "published",
+  "createdAt": "2026-01-05T00:00:00.000Z",
+  "updatedAt": "2026-01-05T00:00:00.000Z"
+ },
+ {
+  "id": "crs_pm",
+  "slug": "project-management-essentials",
+  "title": "Project Management Essentials",
+  "subtitle": "Agile, Scrum and stakeholder management for new managers.",
+  "description": "A practical introduction to planning, running and reporting on projects using both predictive and agile approaches.",
+  "categoryId": "cat_biz",
+  "instructorId": "ins_nisha",
+  "thumbnail": "/thumbnails/project-management-essentials.svg",
+  "level": "Beginner",
+  "language": "English",
+  "price": 2499,
+  "originalPrice": 5999,
+  "rating": 4.5,
+  "ratingCount": 518,
+  "enrolledCount": 2890,
+  "modules": [
+   {
+    "id": "crs_pm_m1",
+    "courseId": "crs_pm",
+    "title": "Project Fundamentals",
+    "description": "Build a solid foundation in project fundamentals.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_pm_m1_l1",
+      "moduleId": "crs_pm_m1",
+      "title": "What Makes a Project",
+      "description": "In this lesson you will work through what makes a project with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_pm_m1_l1_r1",
+        "title": "What Makes a Project — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_pm_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_pm_m1_l2",
+      "moduleId": "crs_pm_m1",
+      "title": "Charter, Scope and WBS",
+      "description": "In this lesson you will work through charter, scope and wbs with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_pm_m1_l2_r1",
+        "title": "Charter, Scope and WBS — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_pm_m1_l3",
+      "moduleId": "crs_pm_m1",
+      "title": "Scheduling Basics",
+      "description": "In this lesson you will work through scheduling basics with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_pm_m1_l3_r1",
+        "title": "Scheduling Basics — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_pm_m1_quiz"
+   },
+   {
+    "id": "crs_pm_m2",
+    "courseId": "crs_pm",
+    "title": "Agile Delivery",
+    "description": "Build a solid foundation in agile delivery.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_pm_m2_l1",
+      "moduleId": "crs_pm_m2",
+      "title": "Scrum Roles and Events",
+      "description": "In this lesson you will work through scrum roles and events with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_pm_m2_l1_r1",
+        "title": "Scrum Roles and Events — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_pm_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_pm_m2_l2",
+      "moduleId": "crs_pm_m2",
+      "title": "Backlog Management",
+      "description": "In this lesson you will work through backlog management with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_pm_m2_l2_r1",
+        "title": "Backlog Management — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_pm_m2_l3",
+      "moduleId": "crs_pm_m2",
+      "title": "Metrics and Reporting",
+      "description": "In this lesson you will work through metrics and reporting with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_pm_m2_l3_r1",
+        "title": "Metrics and Reporting — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_pm_m2_quiz"
+   },
+   {
+    "id": "crs_pm_m3",
+    "courseId": "crs_pm",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_pm_m3_l1",
+      "moduleId": "crs_pm_m3",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_pm_m3_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_pm_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_pm_m3_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Write a project charter and scope statement",
+   "Run sprints and retrospectives",
+   "Manage risks and stakeholders",
+   "Report progress clearly"
+  ],
+  "skills": [
+   "Agile",
+   "Scrum",
+   "Risk Management",
+   "Jira",
+   "Stakeholder Communication"
+  ],
+  "prerequisites": [
+   "None"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "PM",
+  "status": "published",
+  "createdAt": "2026-04-02T00:00:00.000Z",
+  "updatedAt": "2026-04-02T00:00:00.000Z"
+ },
+ {
+  "id": "crs_ml",
+  "slug": "machine-learning-with-python",
+  "title": "Machine Learning with Python",
+  "subtitle": "Supervised and unsupervised learning with scikit-learn.",
+  "description": "Build, evaluate and deploy machine-learning models. Covers regression, classification, clustering, model evaluation and an end-to-end deployment with FastAPI.",
+  "categoryId": "cat_ai",
+  "instructorId": "ins_kabir",
+  "thumbnail": "/thumbnails/machine-learning-with-python.svg",
+  "level": "Advanced",
+  "language": "English",
+  "price": 7999,
+  "originalPrice": 18999,
+  "rating": 4.8,
+  "ratingCount": 634,
+  "enrolledCount": 2740,
+  "modules": [
+   {
+    "id": "crs_ml_m1",
+    "courseId": "crs_ml",
+    "title": "ML Foundations",
+    "description": "Build a solid foundation in ml foundations.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_ml_m1_l1",
+      "moduleId": "crs_ml_m1",
+      "title": "The ML Workflow",
+      "description": "In this lesson you will work through the ml workflow with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_ml_m1_l1_r1",
+        "title": "The ML Workflow — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_ml_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ml_m1_l2",
+      "moduleId": "crs_ml_m1",
+      "title": "Train/Test Splits and Leakage",
+      "description": "In this lesson you will work through train/test splits and leakage with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m1_l2_r1",
+        "title": "Train/Test Splits and Leakage — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ml_m1_l3",
+      "moduleId": "crs_ml_m1",
+      "title": "Feature Engineering",
+      "description": "In this lesson you will work through feature engineering with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m1_l3_r1",
+        "title": "Feature Engineering — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_ml_m1_quiz"
+   },
+   {
+    "id": "crs_ml_m2",
+    "courseId": "crs_ml",
+    "title": "Supervised Learning",
+    "description": "Build a solid foundation in supervised learning.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_ml_m2_l1",
+      "moduleId": "crs_ml_m2",
+      "title": "Linear and Logistic Regression",
+      "description": "In this lesson you will work through linear and logistic regression with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m2_l1_r1",
+        "title": "Linear and Logistic Regression — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_ml_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ml_m2_l2",
+      "moduleId": "crs_ml_m2",
+      "title": "Tree Ensembles",
+      "description": "In this lesson you will work through tree ensembles with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m2_l2_r1",
+        "title": "Tree Ensembles — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ml_m2_l3",
+      "moduleId": "crs_ml_m2",
+      "title": "Model Evaluation",
+      "description": "In this lesson you will work through model evaluation with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m2_l3_r1",
+        "title": "Model Evaluation — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_ml_m2_quiz"
+   },
+   {
+    "id": "crs_ml_m3",
+    "courseId": "crs_ml",
+    "title": "Unsupervised Learning and Deployment",
+    "description": "Build a solid foundation in unsupervised learning and deployment.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_ml_m3_l1",
+      "moduleId": "crs_ml_m3",
+      "title": "K-Means and PCA",
+      "description": "In this lesson you will work through k-means and pca with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m3_l1_r1",
+        "title": "K-Means and PCA — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_ml_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ml_m3_l2",
+      "moduleId": "crs_ml_m3",
+      "title": "Serving Models with FastAPI",
+      "description": "In this lesson you will work through serving models with fastapi with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 960,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m3_l2_r1",
+        "title": "Serving Models with FastAPI — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_ml_m3_quiz",
+    "assignmentId": "crs_ml_m3_assignment"
+   },
+   {
+    "id": "crs_ml_m4",
+    "courseId": "crs_ml",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 4,
+    "lessons": [
+     {
+      "id": "crs_ml_m4_l1",
+      "moduleId": "crs_ml_m4",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 660,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ml_m4_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_ml_m4_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_ml_m4_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Train and tune supervised models",
+   "Apply clustering and dimensionality reduction",
+   "Evaluate models with the right metrics",
+   "Serve a model as an API"
+  ],
+  "skills": [
+   "scikit-learn",
+   "Feature Engineering",
+   "Model Evaluation",
+   "FastAPI",
+   "MLOps basics"
+  ],
+  "prerequisites": [
+   "Python for Data Analytics or equivalent",
+   "Linear algebra basics"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "ML",
+  "status": "published",
+  "createdAt": "2026-04-15T00:00:00.000Z",
+  "updatedAt": "2026-04-15T00:00:00.000Z"
+ },
+ {
+  "id": "crs_social",
+  "slug": "social-media-marketing",
+  "title": "Social Media Marketing",
+  "subtitle": "Content strategy, community and paid social across Instagram, LinkedIn and YouTube.",
+  "description": "Plan, create and grow brand presence on the platforms that matter, with a 30-day content calendar project.",
+  "categoryId": "cat_dm",
+  "instructorId": "ins_priya",
+  "thumbnail": "/thumbnails/social-media-marketing.svg",
+  "level": "Beginner",
+  "language": "English",
+  "price": 1999,
+  "originalPrice": 4999,
+  "rating": 4.5,
+  "ratingCount": 721,
+  "enrolledCount": 5560,
+  "modules": [
+   {
+    "id": "crs_social_m1",
+    "courseId": "crs_social",
+    "title": "Strategy",
+    "description": "Build a solid foundation in strategy.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_social_m1_l1",
+      "moduleId": "crs_social_m1",
+      "title": "Platform Selection",
+      "description": "In this lesson you will work through platform selection with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_social_m1_l1_r1",
+        "title": "Platform Selection — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_social_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_social_m1_l2",
+      "moduleId": "crs_social_m1",
+      "title": "Content Pillars",
+      "description": "In this lesson you will work through content pillars with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_social_m1_l2_r1",
+        "title": "Content Pillars — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_social_m1_l3",
+      "moduleId": "crs_social_m1",
+      "title": "The 30-Day Calendar",
+      "description": "In this lesson you will work through the 30-day calendar with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_social_m1_l3_r1",
+        "title": "The 30-Day Calendar — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_social_m1_quiz"
+   },
+   {
+    "id": "crs_social_m2",
+    "courseId": "crs_social",
+    "title": "Creation and Growth",
+    "description": "Build a solid foundation in creation and growth.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_social_m2_l1",
+      "moduleId": "crs_social_m2",
+      "title": "Short-Form Video",
+      "description": "In this lesson you will work through short-form video with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_social_m2_l1_r1",
+        "title": "Short-Form Video — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_social_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_social_m2_l2",
+      "moduleId": "crs_social_m2",
+      "title": "Design with Canva",
+      "description": "In this lesson you will work through design with canva with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_social_m2_l2_r1",
+        "title": "Design with Canva — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_social_m2_l3",
+      "moduleId": "crs_social_m2",
+      "title": "Community Management",
+      "description": "In this lesson you will work through community management with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_social_m2_l3_r1",
+        "title": "Community Management — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_social_m2_quiz"
+   },
+   {
+    "id": "crs_social_m3",
+    "courseId": "crs_social",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_social_m3_l1",
+      "moduleId": "crs_social_m3",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_social_m3_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_social_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_social_m3_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Build a platform-specific content strategy",
+   "Design posts and reels that perform",
+   "Grow and moderate a community",
+   "Measure engagement that matters"
+  ],
+  "skills": [
+   "Instagram",
+   "LinkedIn",
+   "YouTube",
+   "Canva",
+   "Content Calendars"
+  ],
+  "prerequisites": [
+   "None"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "SMM",
+  "status": "published",
+  "createdAt": "2026-05-01T00:00:00.000Z",
+  "updatedAt": "2026-05-01T00:00:00.000Z"
+ },
+ {
+  "id": "crs_linux",
+  "slug": "linux-and-networking-fundamentals",
+  "title": "Linux and Networking Fundamentals",
+  "subtitle": "Command line, permissions, services and TCP/IP for IT roles.",
+  "description": "The essential sysadmin skills behind every cloud and DevOps job.",
+  "categoryId": "cat_it",
+  "instructorId": "ins_rohan",
+  "thumbnail": "/thumbnails/linux-and-networking-fundamentals.svg",
+  "level": "Beginner",
+  "language": "English",
+  "price": 1499,
+  "originalPrice": 3999,
+  "rating": 4.4,
+  "ratingCount": 398,
+  "enrolledCount": 3120,
+  "modules": [
+   {
+    "id": "crs_linux_m1",
+    "courseId": "crs_linux",
+    "title": "Linux Basics",
+    "description": "Build a solid foundation in linux basics.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_linux_m1_l1",
+      "moduleId": "crs_linux_m1",
+      "title": "Shell Navigation",
+      "description": "In this lesson you will work through shell navigation with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_linux_m1_l1_r1",
+        "title": "Shell Navigation — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_linux_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_linux_m1_l2",
+      "moduleId": "crs_linux_m1",
+      "title": "Files and Permissions",
+      "description": "In this lesson you will work through files and permissions with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_linux_m1_l2_r1",
+        "title": "Files and Permissions — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_linux_m1_l3",
+      "moduleId": "crs_linux_m1",
+      "title": "Processes and Services",
+      "description": "In this lesson you will work through processes and services with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_linux_m1_l3_r1",
+        "title": "Processes and Services — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_linux_m1_quiz"
+   },
+   {
+    "id": "crs_linux_m2",
+    "courseId": "crs_linux",
+    "title": "Networking",
+    "description": "Build a solid foundation in networking.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_linux_m2_l1",
+      "moduleId": "crs_linux_m2",
+      "title": "TCP/IP and Subnetting",
+      "description": "In this lesson you will work through tcp/ip and subnetting with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_linux_m2_l1_r1",
+        "title": "TCP/IP and Subnetting — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_linux_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_linux_m2_l2",
+      "moduleId": "crs_linux_m2",
+      "title": "DNS and HTTP",
+      "description": "In this lesson you will work through dns and http with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_linux_m2_l2_r1",
+        "title": "DNS and HTTP — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_linux_m2_l3",
+      "moduleId": "crs_linux_m2",
+      "title": "SSH and Firewalls",
+      "description": "In this lesson you will work through ssh and firewalls with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_linux_m2_l3_r1",
+        "title": "SSH and Firewalls — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_linux_m2_quiz"
+   },
+   {
+    "id": "crs_linux_m3",
+    "courseId": "crs_linux",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_linux_m3_l1",
+      "moduleId": "crs_linux_m3",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_linux_m3_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_linux_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_linux_m3_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Navigate and administer Linux from the shell",
+   "Manage users, permissions and services",
+   "Understand IP addressing, DNS and routing",
+   "Troubleshoot connectivity"
+  ],
+  "skills": [
+   "Linux",
+   "Bash",
+   "systemd",
+   "TCP/IP",
+   "DNS",
+   "SSH"
+  ],
+  "prerequisites": [
+   "None"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "LNX",
+  "status": "published",
+  "createdAt": "2026-05-20T00:00:00.000Z",
+  "updatedAt": "2026-05-20T00:00:00.000Z"
+ },
+ {
+  "id": "crs_ux",
+  "slug": "ui-ux-design-with-figma",
+  "title": "UI/UX Design with Figma",
+  "subtitle": "Research, wireframes, prototypes and design systems.",
+  "description": "Design user-centred digital products from research to high-fidelity prototype, and hand off cleanly to developers.",
+  "categoryId": "cat_design",
+  "instructorId": "ins_meera",
+  "thumbnail": "/thumbnails/ui-ux-design-with-figma.svg",
+  "level": "Intermediate",
+  "language": "English",
+  "price": 4299,
+  "originalPrice": 9999,
+  "rating": 4.7,
+  "ratingCount": 556,
+  "enrolledCount": 3410,
+  "modules": [
+   {
+    "id": "crs_ux_m1",
+    "courseId": "crs_ux",
+    "title": "Research and Strategy",
+    "description": "Build a solid foundation in research and strategy.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_ux_m1_l1",
+      "moduleId": "crs_ux_m1",
+      "title": "UX Research Methods",
+      "description": "In this lesson you will work through ux research methods with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_ux_m1_l1_r1",
+        "title": "UX Research Methods — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_ux_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ux_m1_l2",
+      "moduleId": "crs_ux_m1",
+      "title": "Journey Mapping",
+      "description": "In this lesson you will work through journey mapping with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ux_m1_l2_r1",
+        "title": "Journey Mapping — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ux_m1_l3",
+      "moduleId": "crs_ux_m1",
+      "title": "Information Architecture",
+      "description": "In this lesson you will work through information architecture with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 840,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ux_m1_l3_r1",
+        "title": "Information Architecture — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_ux_m1_quiz"
+   },
+   {
+    "id": "crs_ux_m2",
+    "courseId": "crs_ux",
+    "title": "Design and Prototype",
+    "description": "Build a solid foundation in design and prototype.",
+    "order": 2,
+    "lessons": [
+     {
+      "id": "crs_ux_m2_l1",
+      "moduleId": "crs_ux_m2",
+      "title": "Wireframing",
+      "description": "In this lesson you will work through wireframing with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "durationSeconds": 900,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ux_m2_l1_r1",
+        "title": "Wireframing — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_ux_m2_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ux_m2_l2",
+      "moduleId": "crs_ux_m2",
+      "title": "Visual Design and Components",
+      "description": "In this lesson you will work through visual design and components with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "durationSeconds": 540,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ux_m2_l2_r1",
+        "title": "Visual Design and Components — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     },
+     {
+      "id": "crs_ux_m2_l3",
+      "moduleId": "crs_ux_m2",
+      "title": "Prototyping and Handoff",
+      "description": "In this lesson you will work through prototyping and handoff with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "durationSeconds": 720,
+      "order": 3,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ux_m2_l3_r1",
+        "title": "Prototyping and Handoff — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_ux_m2_quiz",
+    "assignmentId": "crs_ux_m2_assignment"
+   },
+   {
+    "id": "crs_ux_m3",
+    "courseId": "crs_ux",
+    "title": "Final Assessment",
+    "description": "Build a solid foundation in final assessment.",
+    "order": 3,
+    "lessons": [
+     {
+      "id": "crs_ux_m3_l1",
+      "moduleId": "crs_ux_m3",
+      "title": "Assessment Guidelines",
+      "description": "In this lesson you will work through assessment guidelines with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "durationSeconds": 780,
+      "order": 1,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_ux_m3_l1_r1",
+        "title": "Assessment Guidelines — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_ux_m3_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_ux_m3_quiz",
+    "isFinalAssessment": true
+   }
+  ],
+  "outcomes": [
+   "Run user interviews and synthesise insights",
+   "Design wireframes and interactive prototypes",
+   "Build a reusable design system",
+   "Hand off to engineering"
+  ],
+  "skills": [
+   "Figma",
+   "User Research",
+   "Prototyping",
+   "Design Systems",
+   "Accessibility"
+  ],
+  "prerequisites": [
+   "Basic design sense; Graphic Design course recommended"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "UX",
+  "status": "published",
+  "createdAt": "2026-06-08T00:00:00.000Z",
+  "updatedAt": "2026-06-08T00:00:00.000Z"
+ },
+ {
+  "id": "crs_draft",
+  "slug": "advanced-react-patterns",
+  "title": "Advanced React Patterns",
+  "subtitle": "Performance, server components and architecture at scale.",
+  "description": "Draft course — content under production.",
+  "categoryId": "cat_web",
+  "instructorId": "ins_arjun",
+  "thumbnail": "/thumbnails/advanced-react-patterns.svg",
+  "level": "Advanced",
+  "language": "English",
+  "price": 6999,
+  "originalPrice": 6999,
+  "rating": 0,
+  "ratingCount": 0,
+  "enrolledCount": 0,
+  "modules": [
+   {
+    "id": "crs_draft_m1",
+    "courseId": "crs_draft",
+    "title": "Rendering Performance",
+    "description": "Build a solid foundation in rendering performance.",
+    "order": 1,
+    "lessons": [
+     {
+      "id": "crs_draft_m1_l1",
+      "moduleId": "crs_draft_m1",
+      "title": "Memoisation",
+      "description": "In this lesson you will work through memoisation with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "durationSeconds": 480,
+      "order": 1,
+      "isPreview": true,
+      "resources": [
+       {
+        "id": "crs_draft_m1_l1_r1",
+        "title": "Memoisation — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       },
+       {
+        "id": "crs_draft_m1_l1_r2",
+        "title": "Starter files",
+        "type": "zip",
+        "url": "#",
+        "size": "340 KB"
+       }
+      ]
+     },
+     {
+      "id": "crs_draft_m1_l2",
+      "moduleId": "crs_draft_m1",
+      "title": "Virtualised Lists",
+      "description": "In this lesson you will work through virtualised lists with a guided walkthrough, practical examples and a short recap you can refer back to later.",
+      "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "durationSeconds": 660,
+      "order": 2,
+      "isPreview": false,
+      "resources": [
+       {
+        "id": "crs_draft_m1_l2_r1",
+        "title": "Virtualised Lists — slides (PDF)",
+        "type": "pdf",
+        "url": "#",
+        "size": "1.2 MB"
+       }
+      ]
+     }
+    ],
+    "quizId": "crs_draft_m1_quiz"
+   }
+  ],
+  "outcomes": [
+   "Optimise rendering",
+   "Use server components"
+  ],
+  "skills": [
+   "React",
+   "Next.js"
+  ],
+  "prerequisites": [
+   "Full Stack Web Development"
+  ],
+  "faqs": [
+   {
+    "question": "Do I get lifetime access?",
+    "answer": "Yes. Once enrolled you can revisit every lesson, quiz and resource for as long as the course is published."
+   },
+   {
+    "question": "Is the certificate verifiable?",
+    "answer": "Every certificate carries a unique ID and QR code that resolves to a public verification page on certify.auctech.in."
+   },
+   {
+    "question": "Can I skip ahead?",
+    "answer": "Lessons unlock sequentially. You need to watch each video and pass the module quiz before the next module opens."
+   }
+  ],
+  "certificateCode": "ARP",
+  "status": "draft",
+  "createdAt": "2026-10-10T00:00:00.000Z",
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+ }
+]

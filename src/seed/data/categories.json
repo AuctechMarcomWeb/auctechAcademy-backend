@@ -1,0 +1,58 @@
+[
+ {
+  "id": "cat_it",
+  "slug": "it-software",
+  "name": "IT & Software",
+  "description": "Operating systems, networking, cloud and DevOps fundamentals.",
+  "icon": "MonitorCog"
+ },
+ {
+  "id": "cat_web",
+  "slug": "web-development",
+  "name": "Web Development",
+  "description": "Front-end, back-end and full-stack engineering.",
+  "icon": "Code2"
+ },
+ {
+  "id": "cat_prog",
+  "slug": "programming",
+  "name": "Programming",
+  "description": "Languages, data structures and problem solving.",
+  "icon": "Braces"
+ },
+ {
+  "id": "cat_dm",
+  "slug": "digital-marketing",
+  "name": "Digital Marketing",
+  "description": "Paid media, social, email and growth marketing.",
+  "icon": "Megaphone"
+ },
+ {
+  "id": "cat_seo",
+  "slug": "seo",
+  "name": "SEO",
+  "description": "Technical SEO, content strategy and link building.",
+  "icon": "Search"
+ },
+ {
+  "id": "cat_design",
+  "slug": "graphic-design",
+  "name": "Graphic Design",
+  "description": "Brand identity, layout, typography and tools.",
+  "icon": "Palette"
+ },
+ {
+  "id": "cat_ai",
+  "slug": "ai-data-analytics",
+  "name": "AI & Data Analytics",
+  "description": "Python, machine learning and business intelligence.",
+  "icon": "BrainCircuit"
+ },
+ {
+  "id": "cat_biz",
+  "slug": "business-management",
+  "name": "Business & Management",
+  "description": "Project management, leadership and operations.",
+  "icon": "Briefcase"
+ }
+]

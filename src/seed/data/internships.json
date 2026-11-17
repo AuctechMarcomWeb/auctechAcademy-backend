@@ -1,0 +1,204 @@
+[
+ {
+  "id": "int_frontend",
+  "slug": "frontend-development-internship",
+  "title": "Frontend Development Internship",
+  "department": "Engineering",
+  "description": "Work with the Auctech product team on real features for our learning platform. You will ship React components, write tests and participate in code reviews with senior engineers.",
+  "durationWeeks": 12,
+  "workMode": "Remote",
+  "eligibility": [
+   "Completed Full Stack Web Development or equivalent",
+   "Comfortable with Git and GitHub",
+   "Available 20+ hours per week"
+  ],
+  "skillsRequired": [
+   "React",
+   "TypeScript",
+   "CSS",
+   "Git"
+  ],
+  "learningOutcomes": [
+   "Ship production code in a real codebase",
+   "Practise code review and agile rituals",
+   "Build a verified portfolio of shipped work"
+  ],
+  "stipend": "Paid",
+  "stipendAmount": 8000,
+  "applicationDeadline": "2026-11-18T06:58:07.515Z",
+  "openings": 4,
+  "mentorName": "Arjun Mehta",
+  "mentorTitle": "Senior Full-Stack Engineer",
+  "status": "open",
+  "startDate": "2026-12-02T06:58:07.515Z",
+  "thumbnail": "/thumbnails/internship-engineering.svg",
+  "_deadlineOffsetDays": 18,
+  "_startOffsetDays": 32
+ },
+ {
+  "id": "int_marketing",
+  "slug": "digital-marketing-internship",
+  "title": "Digital Marketing Internship",
+  "department": "Marketing",
+  "description": "Plan and run campaigns for Auctech Academy's own growth. You will manage ad sets, write copy, build email journeys and present weekly performance reports.",
+  "durationWeeks": 8,
+  "workMode": "Hybrid",
+  "eligibility": [
+   "Completed Digital Marketing Mastery or 6 months experience",
+   "Strong written English"
+  ],
+  "skillsRequired": [
+   "Meta Ads",
+   "Copywriting",
+   "Google Analytics",
+   "Canva"
+  ],
+  "learningOutcomes": [
+   "Manage a live monthly ad budget",
+   "Build reporting dashboards",
+   "Earn a performance-reviewed internship certificate"
+  ],
+  "stipend": "Performance-based",
+  "applicationDeadline": "2026-11-10T06:58:07.515Z",
+  "openings": 3,
+  "mentorName": "Priya Raghunathan",
+  "mentorTitle": "Growth Marketing Lead",
+  "status": "open",
+  "startDate": "2026-11-24T06:58:07.515Z",
+  "thumbnail": "/thumbnails/internship-marketing.svg",
+  "_deadlineOffsetDays": 10,
+  "_startOffsetDays": 24
+ },
+ {
+  "id": "int_data",
+  "slug": "data-analytics-internship",
+  "title": "Data Analytics Internship",
+  "department": "Analytics",
+  "description": "Analyse learner behaviour across the platform, build dashboards and support product decisions with data.",
+  "durationWeeks": 10,
+  "workMode": "Remote",
+  "eligibility": [
+   "Python for Data Analytics or equivalent",
+   "Comfort with SQL"
+  ],
+  "skillsRequired": [
+   "Python",
+   "pandas",
+   "SQL",
+   "Data Visualisation"
+  ],
+  "learningOutcomes": [
+   "Work with production analytics data",
+   "Build stakeholder dashboards",
+   "Present insights to leadership"
+  ],
+  "stipend": "Paid",
+  "stipendAmount": 10000,
+  "applicationDeadline": "2026-11-25T06:58:07.515Z",
+  "openings": 2,
+  "mentorName": "Kabir Sethi",
+  "mentorTitle": "Data Scientist",
+  "status": "open",
+  "startDate": "2026-12-10T06:58:07.515Z",
+  "thumbnail": "/thumbnails/internship-analytics.svg",
+  "_deadlineOffsetDays": 25,
+  "_startOffsetDays": 40
+ },
+ {
+  "id": "int_design",
+  "slug": "graphic-design-internship",
+  "title": "Graphic Design Internship",
+  "department": "Design",
+  "description": "Create brand, social and course creative for Auctech and partner brands under the guidance of our design lead.",
+  "durationWeeks": 8,
+  "workMode": "Remote",
+  "eligibility": [
+   "Graphic Design and Brand Identity or portfolio of 5+ projects"
+  ],
+  "skillsRequired": [
+   "Figma",
+   "Illustrator",
+   "Typography",
+   "Social Creative"
+  ],
+  "learningOutcomes": [
+   "Produce client-ready creative",
+   "Work with brand guidelines",
+   "Build a professional portfolio"
+  ],
+  "stipend": "Unpaid",
+  "applicationDeadline": "2026-11-14T06:58:07.515Z",
+  "openings": 3,
+  "mentorName": "Meera Krishnan",
+  "mentorTitle": "Brand Designer",
+  "status": "open",
+  "startDate": "2026-11-28T06:58:07.515Z",
+  "thumbnail": "/thumbnails/internship-design.svg",
+  "_deadlineOffsetDays": 14,
+  "_startOffsetDays": 28
+ },
+ {
+  "id": "int_cloud",
+  "slug": "cloud-devops-internship",
+  "title": "Cloud and DevOps Internship",
+  "department": "Infrastructure",
+  "description": "Support our platform infrastructure: CI pipelines, monitoring and cost optimisation on AWS.",
+  "durationWeeks": 12,
+  "workMode": "On-site",
+  "eligibility": [
+   "AWS Cloud and DevOps Essentials",
+   "Linux command-line proficiency"
+  ],
+  "skillsRequired": [
+   "AWS",
+   "Docker",
+   "GitHub Actions",
+   "Linux"
+  ],
+  "learningOutcomes": [
+   "Operate production infrastructure",
+   "Implement monitoring and alerts",
+   "Earn AWS-aligned experience"
+  ],
+  "stipend": "Paid",
+  "stipendAmount": 12000,
+  "applicationDeadline": "2026-11-05T06:58:07.515Z",
+  "openings": 2,
+  "mentorName": "Rohan Desai",
+  "mentorTitle": "Cloud Architect",
+  "status": "open",
+  "startDate": "2026-11-21T06:58:07.515Z",
+  "thumbnail": "/thumbnails/internship-cloud.svg",
+  "_deadlineOffsetDays": 5,
+  "_startOffsetDays": 21
+ },
+ {
+  "id": "int_content",
+  "slug": "content-and-seo-internship",
+  "title": "Content and SEO Internship",
+  "department": "Marketing",
+  "description": "Research, write and optimise long-form content for the Auctech blog and course pages.",
+  "durationWeeks": 6,
+  "workMode": "Remote",
+  "eligibility": [
+   "SEO: Fundamentals to Advanced or writing samples"
+  ],
+  "skillsRequired": [
+   "SEO Writing",
+   "Keyword Research",
+   "WordPress"
+  ],
+  "learningOutcomes": [
+   "Publish ranking content",
+   "Learn editorial workflows"
+  ],
+  "stipend": "Performance-based",
+  "applicationDeadline": "2026-10-15T00:00:00.000Z",
+  "openings": 2,
+  "mentorName": "Priya Raghunathan",
+  "mentorTitle": "Growth Marketing Lead",
+  "status": "closed",
+  "startDate": "2026-10-20T00:00:00.000Z",
+  "thumbnail": "/thumbnails/internship-marketing.svg"
+ }
+]

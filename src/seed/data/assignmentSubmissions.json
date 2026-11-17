@@ -1,0 +1,28 @@
+[
+ {
+  "id": "sub_1",
+  "assignmentId": "crs_dm_m4_assignment",
+  "userId": "usr_student",
+  "status": "approved",
+  "submittedAt": "2026-09-22T12:00:00.000Z",
+  "fileName": "campaign_plan_ananya.pdf",
+  "fileSize": 1240000,
+  "note": "30-day plan for a skincare D2C brand.",
+  "feedback": "Strong audience segmentation and a realistic budget split. The KPI section could include a retention metric.",
+  "marks": 88,
+  "grade": "A",
+  "reviewedAt": "2026-09-25T09:00:00.000Z",
+  "attempt": 1
+ },
+ {
+  "id": "sub_2",
+  "assignmentId": "crs_fullstack_m5_assignment",
+  "userId": "usr_student",
+  "status": "under_review",
+  "submittedAt": "2026-10-27T16:30:00.000Z",
+  "fileName": "portfolio-app.zip",
+  "fileSize": 3870000,
+  "note": "Live at https://ananya-portfolio.vercel.app",
+  "attempt": 1
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": "ins_arjun",
+  "name": "Arjun Mehta",
+  "title": "Senior Full-Stack Engineer, ex-Flipkart",
+  "bio": "Arjun has shipped production web applications for over a decade and now spends most of his time mentoring early-career developers.",
+  "rating": 4.8,
+  "students": 18420,
+  "courses": 3
+ },
+ {
+  "id": "ins_priya",
+  "name": "Priya Raghunathan",
+  "title": "Growth Marketing Lead",
+  "bio": "Priya has managed over ₹40 crore in paid media spend across e-commerce and SaaS brands.",
+  "rating": 4.7,
+  "students": 9610,
+  "courses": 2
+ },
+ {
+  "id": "ins_kabir",
+  "name": "Kabir Sethi",
+  "title": "Data Scientist & Analytics Consultant",
+  "bio": "Kabir builds analytics pipelines and ML models for fintech clients and teaches applied statistics with a strong practical bias.",
+  "rating": 4.9,
+  "students": 7320,
+  "courses": 2
+ },
+ {
+  "id": "ins_meera",
+  "name": "Meera Krishnan",
+  "title": "Brand Designer",
+  "bio": "Meera has led identity projects for 60+ startups and teaches design systems, typography and layout.",
+  "rating": 4.8,
+  "students": 5280,
+  "courses": 2
+ },
+ {
+  "id": "ins_rohan",
+  "name": "Rohan Desai",
+  "title": "Cloud Architect, AWS Community Builder",
+  "bio": "Rohan designs cloud infrastructure for enterprises and runs hands-on DevOps bootcamps.",
+  "rating": 4.6,
+  "students": 6140,
+  "courses": 2
+ },
+ {
+  "id": "ins_nisha",
+  "name": "Nisha Verma",
+  "title": "PMP, Agile Coach",
+  "bio": "Nisha has coached delivery teams at three unicorns and teaches practical project management.",
+  "rating": 4.7,
+  "students": 4120,
+  "courses": 1
+ }
+]

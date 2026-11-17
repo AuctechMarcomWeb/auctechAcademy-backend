@@ -1,0 +1,58 @@
+[
+ {
+  "id": "act_1",
+  "userId": "usr_student",
+  "type": "assignment_submitted",
+  "title": "Submitted Portfolio Web Application",
+  "courseId": "crs_fullstack",
+  "at": "2026-10-27T16:30:00.000Z"
+ },
+ {
+  "id": "act_2",
+  "userId": "usr_student",
+  "type": "quiz_passed",
+  "title": "Passed React Quiz with 85%",
+  "courseId": "crs_fullstack",
+  "at": "2026-10-26T19:10:00.000Z"
+ },
+ {
+  "id": "act_3",
+  "userId": "usr_student",
+  "type": "lesson_completed",
+  "title": "Completed Routing and Data Fetching",
+  "courseId": "crs_fullstack",
+  "at": "2026-10-26T18:40:00.000Z"
+ },
+ {
+  "id": "act_4",
+  "userId": "usr_student",
+  "type": "lesson_completed",
+  "title": "Completed Series and DataFrames",
+  "courseId": "crs_python_da",
+  "at": "2026-10-24T20:05:00.000Z"
+ },
+ {
+  "id": "act_5",
+  "userId": "usr_student",
+  "type": "certificate_issued",
+  "title": "Certificate issued: Digital Marketing Mastery",
+  "courseId": "crs_dm",
+  "at": "2026-09-29T09:00:00.000Z"
+ },
+ {
+  "id": "act_6",
+  "userId": "usr_student",
+  "type": "course_completed",
+  "title": "Completed Digital Marketing Mastery",
+  "courseId": "crs_dm",
+  "at": "2026-09-28T17:30:00.000Z"
+ },
+ {
+  "id": "act_7",
+  "userId": "usr_student",
+  "type": "enrolled",
+  "title": "Enrolled in Python for Data Analytics",
+  "courseId": "crs_python_da",
+  "at": "2026-09-20T18:10:02.000Z"
+ }
+]

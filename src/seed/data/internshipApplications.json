@@ -1,0 +1,131 @@
+[
+ {
+  "id": "app_1",
+  "internshipId": "int_frontend",
+  "userId": "usr_student",
+  "appliedAt": "2026-10-12T10:00:00.000Z",
+  "status": "active",
+  "fullName": "Ananya Sharma",
+  "email": "student@auctech.in",
+  "phone": "+91 98201 44321",
+  "college": "COEP Technological University",
+  "graduationYear": "2027",
+  "resumeFileName": "ananya_sharma_resume.pdf",
+  "coverLetter": "I completed the Full Stack Web Development course and built a portfolio app with React and a public API. I would like to apply that in a production codebase.",
+  "portfolioUrl": "https://github.com/ananya-dev",
+  "mentor": "Arjun Mehta",
+  "attendance": {
+   "present": 14,
+   "total": 15
+  },
+  "performanceScore": 84,
+  "tasks": [
+   {
+    "id": "t1",
+    "title": "Set up local environment and run test suite",
+    "dueDate": "2026-10-16T00:00:00.000Z",
+    "status": "approved",
+    "submittedAt": "2026-10-15T12:00:00.000Z",
+    "feedback": "Clean setup notes. Good start."
+   },
+   {
+    "id": "t2",
+    "title": "Build the course card hover state",
+    "dueDate": "2026-10-22T00:00:00.000Z",
+    "status": "approved",
+    "submittedAt": "2026-10-21T15:00:00.000Z",
+    "feedback": "Matches the design. Consider extracting the badge."
+   },
+   {
+    "id": "t3",
+    "title": "Add unit tests for the progress utility",
+    "dueDate": "2026-11-02T00:00:00.000Z",
+    "status": "in_progress"
+   },
+   {
+    "id": "t4",
+    "title": "Implement mobile sidebar for the course player",
+    "dueDate": "2026-11-10T00:00:00.000Z",
+    "status": "todo"
+   }
+  ]
+ },
+ {
+  "id": "app_2",
+  "internshipId": "int_data",
+  "userId": "usr_student",
+  "appliedAt": "2026-10-26T10:00:00.000Z",
+  "status": "shortlisted",
+  "fullName": "Ananya Sharma",
+  "email": "student@auctech.in",
+  "phone": "+91 98201 44321",
+  "college": "COEP Technological University",
+  "graduationYear": "2027",
+  "resumeFileName": "ananya_sharma_resume.pdf",
+  "coverLetter": "Currently completing Python for Data Analytics and keen to apply pandas and visualisation skills to real learner data.",
+  "tasks": []
+ },
+ {
+  "id": "app_3",
+  "internshipId": "int_marketing",
+  "userId": "usr_3",
+  "appliedAt": "2026-07-20T10:00:00.000Z",
+  "status": "completed",
+  "fullName": "Sneha Kulkarni",
+  "email": "sneha.k@example.com",
+  "phone": "+91 90000 11111",
+  "college": "Mumbai University",
+  "graduationYear": "2026",
+  "coverLetter": "—",
+  "mentor": "Priya Raghunathan",
+  "attendance": {
+   "present": 38,
+   "total": 40
+  },
+  "performanceScore": 90,
+  "tasks": [],
+  "certificateId": "AUC-INT-2026-000012"
+ },
+ {
+  "id": "app_4",
+  "internshipId": "int_frontend",
+  "userId": "usr_10",
+  "appliedAt": "2026-10-20T10:00:00.000Z",
+  "status": "interview",
+  "fullName": "Arnav Bose",
+  "email": "arnav.bose@example.com",
+  "phone": "+91 90000 22222",
+  "college": "Jadavpur University",
+  "graduationYear": "2027",
+  "coverLetter": "—",
+  "tasks": []
+ },
+ {
+  "id": "app_5",
+  "internshipId": "int_cloud",
+  "userId": "usr_4",
+  "appliedAt": "2026-10-22T10:00:00.000Z",
+  "status": "applied",
+  "fullName": "Mohammed Faisal",
+  "email": "faisal.m@example.com",
+  "phone": "+91 90000 33333",
+  "college": "Osmania University",
+  "graduationYear": "2026",
+  "coverLetter": "—",
+  "tasks": []
+ },
+ {
+  "id": "app_6",
+  "internshipId": "int_design",
+  "userId": "usr_5",
+  "appliedAt": "2026-10-18T10:00:00.000Z",
+  "status": "rejected",
+  "fullName": "Divya Menon",
+  "email": "divya.menon@example.com",
+  "phone": "+91 90000 44444",
+  "college": "CUSAT",
+  "graduationYear": "2026",
+  "coverLetter": "—",
+  "tasks": []
+ }
+]

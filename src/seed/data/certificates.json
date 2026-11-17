@@ -1,0 +1,186 @@
+[
+ {
+  "id": "AUC-DM-2026-000124",
+  "userId": "usr_student",
+  "courseId": "crs_dm",
+  "studentName": "Ananya Sharma",
+  "courseTitle": "Digital Marketing Mastery",
+  "issuedAt": "2026-09-29T09:00:00.000Z",
+  "completedAt": "2026-09-28T17:30:00.000Z",
+  "status": "valid",
+  "finalScore": 86,
+  "kind": "course",
+  "verificationHistory": [
+   {
+    "id": "AUC-DM-2026-000124_v1",
+    "at": "2026-10-12T11:02:00.000Z",
+    "result": "valid",
+    "source": "qr"
+   },
+   {
+    "id": "AUC-DM-2026-000124_v2",
+    "at": "2026-10-21T08:45:00.000Z",
+    "result": "valid",
+    "source": "web"
+   }
+  ]
+ },
+ {
+  "id": "AUC-JAVA-2026-000071",
+  "userId": "usr_2",
+  "courseId": "crs_java",
+  "studentName": "Rahul Iyer",
+  "courseTitle": "Java Programming and Data Structures",
+  "issuedAt": "2026-07-21T09:00:00.000Z",
+  "completedAt": "2026-07-20T10:00:00.000Z",
+  "status": "valid",
+  "finalScore": 91,
+  "kind": "course",
+  "verificationHistory": [
+   {
+    "id": "AUC-JAVA-2026-000071_v1",
+    "at": "2026-10-12T11:02:00.000Z",
+    "result": "valid",
+    "source": "qr"
+   },
+   {
+    "id": "AUC-JAVA-2026-000071_v2",
+    "at": "2026-10-21T08:45:00.000Z",
+    "result": "valid",
+    "source": "web"
+   }
+  ]
+ },
+ {
+  "id": "AUC-DM-2026-000058",
+  "userId": "usr_3",
+  "courseId": "crs_dm",
+  "studentName": "Sneha Kulkarni",
+  "courseTitle": "Digital Marketing Mastery",
+  "issuedAt": "2026-07-02T09:00:00.000Z",
+  "completedAt": "2026-07-01T10:00:00.000Z",
+  "status": "valid",
+  "finalScore": 78,
+  "kind": "course",
+  "verificationHistory": [
+   {
+    "id": "AUC-DM-2026-000058_v1",
+    "at": "2026-10-12T11:02:00.000Z",
+    "result": "valid",
+    "source": "qr"
+   },
+   {
+    "id": "AUC-DM-2026-000058_v2",
+    "at": "2026-10-21T08:45:00.000Z",
+    "result": "valid",
+    "source": "web"
+   }
+  ]
+ },
+ {
+  "id": "AUC-GD-2026-000092",
+  "userId": "usr_5",
+  "courseId": "crs_uiux",
+  "studentName": "Divya Menon",
+  "courseTitle": "Graphic Design and Brand Identity",
+  "issuedAt": "2026-08-16T09:00:00.000Z",
+  "completedAt": "2026-08-15T10:00:00.000Z",
+  "status": "valid",
+  "finalScore": 88,
+  "kind": "course",
+  "verificationHistory": [
+   {
+    "id": "AUC-GD-2026-000092_v1",
+    "at": "2026-10-12T11:02:00.000Z",
+    "result": "valid",
+    "source": "qr"
+   },
+   {
+    "id": "AUC-GD-2026-000092_v2",
+    "at": "2026-10-21T08:45:00.000Z",
+    "result": "valid",
+    "source": "web"
+   }
+  ]
+ },
+ {
+  "id": "AUC-PM-2026-000104",
+  "userId": "usr_9",
+  "courseId": "crs_pm",
+  "studentName": "Pooja Agarwal",
+  "courseTitle": "Project Management Essentials",
+  "issuedAt": "2026-10-01T09:00:00.000Z",
+  "completedAt": "2026-09-30T10:00:00.000Z",
+  "status": "valid",
+  "finalScore": 82,
+  "kind": "course",
+  "verificationHistory": [
+   {
+    "id": "AUC-PM-2026-000104_v1",
+    "at": "2026-10-12T11:02:00.000Z",
+    "result": "valid",
+    "source": "qr"
+   },
+   {
+    "id": "AUC-PM-2026-000104_v2",
+    "at": "2026-10-21T08:45:00.000Z",
+    "result": "valid",
+    "source": "web"
+   }
+  ]
+ },
+ {
+  "id": "AUC-FSWD-2026-000033",
+  "userId": "usr_6",
+  "courseId": "crs_fullstack",
+  "studentName": "Karan Malhotra",
+  "courseTitle": "Full Stack Web Development",
+  "issuedAt": "2026-08-30T09:00:00.000Z",
+  "completedAt": "2026-08-29T10:00:00.000Z",
+  "status": "revoked",
+  "revokedReason": "Academic integrity violation confirmed during assessment audit.",
+  "revokedAt": "2026-09-12T10:30:00.000Z",
+  "finalScore": 74,
+  "kind": "course",
+  "verificationHistory": [
+   {
+    "id": "AUC-FSWD-2026-000033_v1",
+    "at": "2026-10-12T11:02:00.000Z",
+    "result": "revoked",
+    "source": "qr"
+   },
+   {
+    "id": "AUC-FSWD-2026-000033_v2",
+    "at": "2026-10-21T08:45:00.000Z",
+    "result": "revoked",
+    "source": "web"
+   }
+  ]
+ },
+ {
+  "id": "AUC-INT-2026-000012",
+  "userId": "usr_3",
+  "courseId": "int_marketing",
+  "studentName": "Sneha Kulkarni",
+  "courseTitle": "Digital Marketing Internship",
+  "issuedAt": "2026-10-05T09:00:00.000Z",
+  "completedAt": "2026-10-03T10:00:00.000Z",
+  "status": "valid",
+  "finalScore": 90,
+  "kind": "internship",
+  "verificationHistory": [
+   {
+    "id": "AUC-INT-2026-000012_v1",
+    "at": "2026-10-12T11:02:00.000Z",
+    "result": "valid",
+    "source": "qr"
+   },
+   {
+    "id": "AUC-INT-2026-000012_v2",
+    "at": "2026-10-21T08:45:00.000Z",
+    "result": "valid",
+    "source": "web"
+   }
+  ]
+ }
+]

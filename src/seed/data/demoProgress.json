@@ -1,0 +1,423 @@
+{
+ "usr_student": {
+  "crs_fullstack": {
+   "startedAt": "2026-06-15T10:13:10.000Z",
+   "lessons": {
+    "crs_fullstack_m1_l1": {
+     "lessonId": "crs_fullstack_m1_l1",
+     "maxPosition": 720,
+     "watchedSeconds": 720,
+     "lastPosition": 720,
+     "completed": true,
+     "completedAt": "2026-06-20T10:00:00.000Z",
+     "updatedAt": "2026-06-20T10:00:00.000Z"
+    },
+    "crs_fullstack_m1_l2": {
+     "lessonId": "crs_fullstack_m1_l2",
+     "maxPosition": 900,
+     "watchedSeconds": 900,
+     "lastPosition": 900,
+     "completed": true,
+     "completedAt": "2026-06-20T10:00:00.000Z",
+     "updatedAt": "2026-06-20T10:00:00.000Z"
+    },
+    "crs_fullstack_m1_l3": {
+     "lessonId": "crs_fullstack_m1_l3",
+     "maxPosition": 1080,
+     "watchedSeconds": 1080,
+     "lastPosition": 1080,
+     "completed": true,
+     "completedAt": "2026-06-20T10:00:00.000Z",
+     "updatedAt": "2026-06-20T10:00:00.000Z"
+    },
+    "crs_fullstack_m2_l1": {
+     "lessonId": "crs_fullstack_m2_l1",
+     "maxPosition": 840,
+     "watchedSeconds": 840,
+     "lastPosition": 840,
+     "completed": true,
+     "completedAt": "2026-07-05T10:00:00.000Z",
+     "updatedAt": "2026-07-05T10:00:00.000Z"
+    },
+    "crs_fullstack_m2_l2": {
+     "lessonId": "crs_fullstack_m2_l2",
+     "maxPosition": 1320,
+     "watchedSeconds": 1320,
+     "lastPosition": 1320,
+     "completed": true,
+     "completedAt": "2026-07-05T10:00:00.000Z",
+     "updatedAt": "2026-07-05T10:00:00.000Z"
+    },
+    "crs_fullstack_m2_l3": {
+     "lessonId": "crs_fullstack_m2_l3",
+     "maxPosition": 1440,
+     "watchedSeconds": 1440,
+     "lastPosition": 1440,
+     "completed": true,
+     "completedAt": "2026-07-05T10:00:00.000Z",
+     "updatedAt": "2026-07-05T10:00:00.000Z"
+    },
+    "crs_fullstack_m3_l1": {
+     "lessonId": "crs_fullstack_m3_l1",
+     "maxPosition": 1200,
+     "watchedSeconds": 1200,
+     "lastPosition": 1200,
+     "completed": true,
+     "completedAt": "2026-08-18T10:00:00.000Z",
+     "updatedAt": "2026-08-18T10:00:00.000Z"
+    },
+    "crs_fullstack_m3_l2": {
+     "lessonId": "crs_fullstack_m3_l2",
+     "maxPosition": 1500,
+     "watchedSeconds": 1500,
+     "lastPosition": 1500,
+     "completed": true,
+     "completedAt": "2026-08-18T10:00:00.000Z",
+     "updatedAt": "2026-08-18T10:00:00.000Z"
+    },
+    "crs_fullstack_m3_l3": {
+     "lessonId": "crs_fullstack_m3_l3",
+     "maxPosition": 1680,
+     "watchedSeconds": 1680,
+     "lastPosition": 1680,
+     "completed": true,
+     "completedAt": "2026-08-18T10:00:00.000Z",
+     "updatedAt": "2026-08-18T10:00:00.000Z"
+    },
+    "crs_fullstack_m4_l1": {
+     "lessonId": "crs_fullstack_m4_l1",
+     "maxPosition": 1080,
+     "watchedSeconds": 1080,
+     "lastPosition": 1080,
+     "completed": true,
+     "completedAt": "2026-10-20T10:00:00.000Z",
+     "updatedAt": "2026-10-20T10:00:00.000Z"
+    },
+    "crs_fullstack_m4_l2": {
+     "lessonId": "crs_fullstack_m4_l2",
+     "maxPosition": 1560,
+     "watchedSeconds": 1560,
+     "lastPosition": 1560,
+     "completed": true,
+     "completedAt": "2026-10-24T10:00:00.000Z",
+     "updatedAt": "2026-10-24T10:00:00.000Z"
+    },
+    "crs_fullstack_m4_l3": {
+     "lessonId": "crs_fullstack_m4_l3",
+     "maxPosition": 6,
+     "watchedSeconds": 6,
+     "lastPosition": 6,
+     "completed": false,
+     "updatedAt": "2026-10-26T18:40:00.000Z"
+    }
+   },
+   "lastLessonId": "crs_fullstack_m4_l3",
+   "attempts": [
+    {
+     "quizId": "crs_fullstack_m1_quiz",
+     "courseId": "crs_fullstack",
+     "startedAt": "2026-06-20T10:54:00.000Z",
+     "submittedAt": "2026-06-20T11:00:00.000Z",
+     "answers": {
+      "crs_fullstack_m1_q1": "crs_fullstack_m1_q1_o1",
+      "crs_fullstack_m1_q2": "crs_fullstack_m1_q2_o2",
+      "crs_fullstack_m1_q3": "crs_fullstack_m1_q3_o3",
+      "crs_fullstack_m1_q4": "crs_fullstack_m1_q4_o2",
+      "crs_fullstack_m1_q5": "crs_fullstack_m1_q5_o2"
+     },
+     "correct": 4,
+     "total": 5,
+     "scorePercent": 80,
+     "passed": true,
+     "timeTakenSeconds": 360
+    },
+    {
+     "quizId": "crs_fullstack_m2_quiz",
+     "courseId": "crs_fullstack",
+     "startedAt": "2026-07-05T10:54:00.000Z",
+     "submittedAt": "2026-07-05T11:00:00.000Z",
+     "answers": {
+      "crs_fullstack_m2_q1": "crs_fullstack_m2_q1_o2",
+      "crs_fullstack_m2_q2": "crs_fullstack_m2_q2_o3",
+      "crs_fullstack_m2_q3": "crs_fullstack_m2_q3_o3",
+      "crs_fullstack_m2_q4": "crs_fullstack_m2_q4_o2",
+      "crs_fullstack_m2_q5": "crs_fullstack_m2_q5_o1"
+     },
+     "correct": 5,
+     "total": 5,
+     "scorePercent": 100,
+     "passed": true,
+     "timeTakenSeconds": 360
+    },
+    {
+     "quizId": "crs_fullstack_m3_quiz",
+     "courseId": "crs_fullstack",
+     "startedAt": "2026-08-17T10:54:00.000Z",
+     "submittedAt": "2026-08-17T11:00:00.000Z",
+     "answers": {
+      "crs_fullstack_m3_q1": "crs_fullstack_m3_q1_o3",
+      "crs_fullstack_m3_q2": "crs_fullstack_m3_q2_o2",
+      "crs_fullstack_m3_q3": "crs_fullstack_m3_q3_o3",
+      "crs_fullstack_m3_q4": "crs_fullstack_m3_q4_o1",
+      "crs_fullstack_m3_q5": "crs_fullstack_m3_q5_o1"
+     },
+     "correct": 3,
+     "total": 5,
+     "scorePercent": 60,
+     "passed": false,
+     "timeTakenSeconds": 360
+    },
+    {
+     "quizId": "crs_fullstack_m3_quiz",
+     "courseId": "crs_fullstack",
+     "startedAt": "2026-08-18T10:54:00.000Z",
+     "submittedAt": "2026-08-18T11:00:00.000Z",
+     "answers": {
+      "crs_fullstack_m3_q1": "crs_fullstack_m3_q1_o3",
+      "crs_fullstack_m3_q2": "crs_fullstack_m3_q2_o2",
+      "crs_fullstack_m3_q3": "crs_fullstack_m3_q3_o3",
+      "crs_fullstack_m3_q4": "crs_fullstack_m3_q4_o2",
+      "crs_fullstack_m3_q5": "crs_fullstack_m3_q5_o1"
+     },
+     "correct": 4,
+     "total": 5,
+     "scorePercent": 80,
+     "passed": true,
+     "timeTakenSeconds": 360
+    }
+   ]
+  },
+  "crs_dm": {
+   "lessons": {
+    "crs_dm_m1_l1": {
+     "lessonId": "crs_dm_m1_l1",
+     "maxPosition": 480,
+     "watchedSeconds": 480,
+     "lastPosition": 480,
+     "completed": true,
+     "completedAt": "2026-09-08T17:30:00.000Z",
+     "updatedAt": "2026-09-08T17:30:00.000Z"
+    },
+    "crs_dm_m1_l2": {
+     "lessonId": "crs_dm_m1_l2",
+     "maxPosition": 660,
+     "watchedSeconds": 660,
+     "lastPosition": 660,
+     "completed": true,
+     "completedAt": "2026-09-08T17:30:00.000Z",
+     "updatedAt": "2026-09-08T17:30:00.000Z"
+    },
+    "crs_dm_m1_l3": {
+     "lessonId": "crs_dm_m1_l3",
+     "maxPosition": 840,
+     "watchedSeconds": 840,
+     "lastPosition": 840,
+     "completed": true,
+     "completedAt": "2026-09-08T17:30:00.000Z",
+     "updatedAt": "2026-09-08T17:30:00.000Z"
+    },
+    "crs_dm_m2_l1": {
+     "lessonId": "crs_dm_m2_l1",
+     "maxPosition": 900,
+     "watchedSeconds": 900,
+     "lastPosition": 900,
+     "completed": true,
+     "completedAt": "2026-09-12T17:30:00.000Z",
+     "updatedAt": "2026-09-12T17:30:00.000Z"
+    },
+    "crs_dm_m2_l2": {
+     "lessonId": "crs_dm_m2_l2",
+     "maxPosition": 540,
+     "watchedSeconds": 540,
+     "lastPosition": 540,
+     "completed": true,
+     "completedAt": "2026-09-12T17:30:00.000Z",
+     "updatedAt": "2026-09-12T17:30:00.000Z"
+    },
+    "crs_dm_m2_l3": {
+     "lessonId": "crs_dm_m2_l3",
+     "maxPosition": 720,
+     "watchedSeconds": 720,
+     "lastPosition": 720,
+     "completed": true,
+     "completedAt": "2026-09-12T17:30:00.000Z",
+     "updatedAt": "2026-09-12T17:30:00.000Z"
+    },
+    "crs_dm_m3_l1": {
+     "lessonId": "crs_dm_m3_l1",
+     "maxPosition": 780,
+     "watchedSeconds": 780,
+     "lastPosition": 780,
+     "completed": true,
+     "completedAt": "2026-09-16T17:30:00.000Z",
+     "updatedAt": "2026-09-16T17:30:00.000Z"
+    },
+    "crs_dm_m3_l2": {
+     "lessonId": "crs_dm_m3_l2",
+     "maxPosition": 960,
+     "watchedSeconds": 960,
+     "lastPosition": 960,
+     "completed": true,
+     "completedAt": "2026-09-16T17:30:00.000Z",
+     "updatedAt": "2026-09-16T17:30:00.000Z"
+    },
+    "crs_dm_m3_l3": {
+     "lessonId": "crs_dm_m3_l3",
+     "maxPosition": 600,
+     "watchedSeconds": 600,
+     "lastPosition": 600,
+     "completed": true,
+     "completedAt": "2026-09-16T17:30:00.000Z",
+     "updatedAt": "2026-09-16T17:30:00.000Z"
+    },
+    "crs_dm_m4_l1": {
+     "lessonId": "crs_dm_m4_l1",
+     "maxPosition": 660,
+     "watchedSeconds": 660,
+     "lastPosition": 660,
+     "completed": true,
+     "completedAt": "2026-09-20T17:30:00.000Z",
+     "updatedAt": "2026-09-20T17:30:00.000Z"
+    },
+    "crs_dm_m4_l2": {
+     "lessonId": "crs_dm_m4_l2",
+     "maxPosition": 840,
+     "watchedSeconds": 840,
+     "lastPosition": 840,
+     "completed": true,
+     "completedAt": "2026-09-20T17:30:00.000Z",
+     "updatedAt": "2026-09-20T17:30:00.000Z"
+    },
+    "crs_dm_m4_l3": {
+     "lessonId": "crs_dm_m4_l3",
+     "maxPosition": 480,
+     "watchedSeconds": 480,
+     "lastPosition": 480,
+     "completed": true,
+     "completedAt": "2026-09-20T17:30:00.000Z",
+     "updatedAt": "2026-09-20T17:30:00.000Z"
+    },
+    "crs_dm_m5_l1": {
+     "lessonId": "crs_dm_m5_l1",
+     "maxPosition": 540,
+     "watchedSeconds": 540,
+     "lastPosition": 540,
+     "completed": true,
+     "completedAt": "2026-09-24T17:30:00.000Z",
+     "updatedAt": "2026-09-24T17:30:00.000Z"
+    }
+   },
+   "attempts": [
+    {
+     "quizId": "crs_dm_m1_quiz",
+     "courseId": "crs_dm",
+     "startedAt": "2026-09-08T17:24:00.000Z",
+     "submittedAt": "2026-09-08T17:30:00.000Z",
+     "answers": {
+      "crs_dm_m1_q1": "crs_dm_m1_q1_o1",
+      "crs_dm_m1_q2": "crs_dm_m1_q2_o2",
+      "crs_dm_m1_q3": "crs_dm_m1_q3_o3",
+      "crs_dm_m1_q4": "crs_dm_m1_q4_o1",
+      "crs_dm_m1_q5": "crs_dm_m1_q5_o2"
+     },
+     "correct": 4,
+     "total": 5,
+     "scorePercent": 80,
+     "passed": true,
+     "timeTakenSeconds": 360
+    },
+    {
+     "quizId": "crs_dm_m2_quiz",
+     "courseId": "crs_dm",
+     "startedAt": "2026-09-12T17:24:00.000Z",
+     "submittedAt": "2026-09-12T17:30:00.000Z",
+     "answers": {
+      "crs_dm_m2_q1": "crs_dm_m2_q1_o1",
+      "crs_dm_m2_q2": "crs_dm_m2_q2_o2",
+      "crs_dm_m2_q3": "crs_dm_m2_q3_o3",
+      "crs_dm_m2_q4": "crs_dm_m2_q4_o1",
+      "crs_dm_m2_q5": "crs_dm_m2_q5_o1"
+     },
+     "correct": 5,
+     "total": 5,
+     "scorePercent": 100,
+     "passed": true,
+     "timeTakenSeconds": 360
+    },
+    {
+     "quizId": "crs_dm_m3_quiz",
+     "courseId": "crs_dm",
+     "startedAt": "2026-09-16T17:24:00.000Z",
+     "submittedAt": "2026-09-16T17:30:00.000Z",
+     "answers": {
+      "crs_dm_m3_q1": "crs_dm_m3_q1_o1",
+      "crs_dm_m3_q2": "crs_dm_m3_q2_o2",
+      "crs_dm_m3_q3": "crs_dm_m3_q3_o3",
+      "crs_dm_m3_q4": "crs_dm_m3_q4_o1",
+      "crs_dm_m3_q5": "crs_dm_m3_q5_o2"
+     },
+     "correct": 4,
+     "total": 5,
+     "scorePercent": 80,
+     "passed": true,
+     "timeTakenSeconds": 360
+    },
+    {
+     "quizId": "crs_dm_m4_quiz",
+     "courseId": "crs_dm",
+     "startedAt": "2026-09-20T17:24:00.000Z",
+     "submittedAt": "2026-09-20T17:30:00.000Z",
+     "answers": {
+      "crs_dm_m4_q1": "crs_dm_m4_q1_o1",
+      "crs_dm_m4_q2": "crs_dm_m4_q2_o2",
+      "crs_dm_m4_q3": "crs_dm_m4_q3_o3",
+      "crs_dm_m4_q4": "crs_dm_m4_q4_o1",
+      "crs_dm_m4_q5": "crs_dm_m4_q5_o2"
+     },
+     "correct": 4,
+     "total": 5,
+     "scorePercent": 80,
+     "passed": true,
+     "timeTakenSeconds": 360
+    },
+    {
+     "quizId": "crs_dm_m5_quiz",
+     "courseId": "crs_dm",
+     "startedAt": "2026-09-24T17:24:00.000Z",
+     "submittedAt": "2026-09-24T17:30:00.000Z",
+     "answers": {
+      "crs_dm_m5_q1": "crs_dm_m5_q1_o2",
+      "crs_dm_m5_q2": "crs_dm_m5_q2_o2",
+      "crs_dm_m5_q3": "crs_dm_m5_q3_o1",
+      "crs_dm_m5_q4": "crs_dm_m5_q4_o2",
+      "crs_dm_m5_q5": "crs_dm_m5_q5_o1"
+     },
+     "correct": 4,
+     "total": 5,
+     "scorePercent": 80,
+     "passed": true,
+     "timeTakenSeconds": 360
+    }
+   ],
+   "completedAt": "2026-09-28T17:30:00.000Z",
+   "startedAt": "2026-08-02T14:41:05.000Z",
+   "lastLessonId": "crs_dm_m5_l1"
+  },
+  "crs_python_da": {
+   "startedAt": "2026-09-20T18:10:02.000Z",
+   "lessons": {
+    "crs_python_da_m1_l1": {
+     "lessonId": "crs_python_da_m1_l1",
+     "maxPosition": 480,
+     "watchedSeconds": 480,
+     "lastPosition": 480,
+     "completed": true,
+     "completedAt": "2026-09-25T10:00:00.000Z",
+     "updatedAt": "2026-09-25T10:00:00.000Z"
+    }
+   },
+   "lastLessonId": "crs_python_da_m1_l1",
+   "attempts": []
+  }
+ }
+}

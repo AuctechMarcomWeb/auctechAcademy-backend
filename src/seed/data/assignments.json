@@ -1,0 +1,90 @@
+[
+ {
+  "id": "crs_fullstack_m5_assignment",
+  "courseId": "crs_fullstack",
+  "moduleId": "crs_fullstack_m5",
+  "title": "Portfolio Web Application",
+  "instructions": "Build a multi-page React application that consumes a public API, includes at least one form with validation, is fully responsive and is deployed to a public URL. Submit a ZIP of the repository and include the live link in your note.",
+  "deadline": "2026-11-21T06:58:07.500Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ },
+ {
+  "id": "crs_dm_m4_assignment",
+  "courseId": "crs_dm",
+  "moduleId": "crs_dm_m4",
+  "title": "Campaign Plan for a D2C Brand",
+  "instructions": "Prepare a 30-day campaign plan including audience, channels, creative concepts, budget split and KPIs. Submit as PDF.",
+  "deadline": "2026-11-21T06:58:07.500Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ },
+ {
+  "id": "crs_python_da_m4_assignment",
+  "courseId": "crs_python_da",
+  "moduleId": "crs_python_da_m4",
+  "title": "Sales Analytics Case Study",
+  "instructions": "Analyse the provided sales dataset, identify three actionable insights and submit a notebook with charts and a one-page executive summary.",
+  "deadline": "2026-11-21T06:58:07.501Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ },
+ {
+  "id": "crs_seo_m3_assignment",
+  "courseId": "crs_seo",
+  "moduleId": "crs_seo_m3",
+  "title": "Site Audit Report",
+  "instructions": "Audit a website of your choice and submit a prioritised list of 15 SEO fixes with expected impact.",
+  "deadline": "2026-11-21T06:58:07.501Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ },
+ {
+  "id": "crs_uiux_m3_assignment",
+  "courseId": "crs_uiux",
+  "moduleId": "crs_uiux_m3",
+  "title": "Brand Identity Kit",
+  "instructions": "Design a logo, colour palette, type system and three applications for the provided client brief. Submit as PDF.",
+  "deadline": "2026-11-21T06:58:07.501Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ },
+ {
+  "id": "crs_aws_m3_assignment",
+  "courseId": "crs_aws",
+  "moduleId": "crs_aws_m3",
+  "title": "Deploy a Containerised App",
+  "instructions": "Containerise the sample application, deploy to AWS and submit the public URL plus your pipeline configuration.",
+  "deadline": "2026-11-21T06:58:07.501Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ },
+ {
+  "id": "crs_ml_m3_assignment",
+  "courseId": "crs_ml",
+  "moduleId": "crs_ml_m3",
+  "title": "End-to-End ML Project",
+  "instructions": "Train a model on the provided dataset, document your evaluation and deploy it as an API. Submit the repository ZIP and a short report.",
+  "deadline": "2026-11-21T06:58:07.501Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ },
+ {
+  "id": "crs_ux_m2_assignment",
+  "courseId": "crs_ux",
+  "moduleId": "crs_ux_m2",
+  "title": "Mobile App Prototype",
+  "instructions": "Design a 6-screen mobile app prototype for the provided brief and submit a Figma share link plus a PDF export.",
+  "deadline": "2026-11-21T06:58:07.501Z",
+  "maxMarks": 100,
+  "allowResubmission": true,
+  "_deadlineOffsetDays": 21
+ }
+]

@@ -1,0 +1,24 @@
+[
+ {
+  "code": "AUCTECH20",
+  "type": "percent",
+  "value": 20,
+  "description": "20% off any course",
+  "active": true
+ },
+ {
+  "code": "WELCOME500",
+  "type": "flat",
+  "value": 500,
+  "minAmount": 2000,
+  "description": "₹500 off orders above ₹2,000",
+  "active": true
+ },
+ {
+  "code": "EXPIRED10",
+  "type": "percent",
+  "value": 10,
+  "description": "Expired campaign code",
+  "active": false
+ }
+]
